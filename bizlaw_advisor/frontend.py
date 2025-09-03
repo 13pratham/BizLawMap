@@ -85,7 +85,8 @@ class StreamlitApp:
             # Business inputs
             business_type = st.text_input("Business Type", 
                                     placeholder="e.g., Residential property management",
-                                    help="Enter your type of business (e.g., Restaurant, Retail Store)")
+                                    help="""Enter your type of business (e.g., Restaurant, Retail Store)
+                                    https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf""")
             
             area_of_law = st.selectbox(
                 "Area of Law",
@@ -235,21 +236,33 @@ class StreamlitApp:
             with cols[0]:
                 st.markdown('<div class="law-card federal">', unsafe_allow_html=True)
                 st.markdown("#### 🏛️ Federal")
-                st.write(content["jurisdiction_analysis"]["Federal"])
+                try:
+                    for key, value in content["jurisdiction_analysis"]["Federal"].items():
+                        st.write(f"**{key}:** {value}")
+                except:
+                    st.write(content["jurisdiction_analysis"]["Federal"])
                 st.markdown('</div>', unsafe_allow_html=True)
         
         if "State" in content["jurisdiction_analysis"]:
             with cols[1]:
                 st.markdown('<div class="law-card state">', unsafe_allow_html=True)
                 st.markdown("#### 🏪 State")
-                st.write(content["jurisdiction_analysis"]["State"])
+                try:
+                    for key, value in content["jurisdiction_analysis"]["State"].items():
+                        st.write(f"**{key}:** {value}")
+                except:
+                    st.write(content["jurisdiction_analysis"]["State"])
                 st.markdown('</div>', unsafe_allow_html=True)
         
         if "Local" in content["jurisdiction_analysis"]:
             with cols[2]:
                 st.markdown('<div class="law-card local">', unsafe_allow_html=True)
                 st.markdown("#### 🏠 Local")
-                st.write(content["jurisdiction_analysis"]["Local"])
+                try:
+                    for key, value in content["jurisdiction_analysis"]["Local"].items():
+                        st.write(f"**{key}:** {value}")
+                except:
+                    st.write(content["jurisdiction_analysis"]["Local"])
                 st.markdown('</div>', unsafe_allow_html=True)
         
         # Compliance steps
