@@ -1,0 +1,968 @@
+{
+    "Federal Laws": [
+        {
+            "url": "https://www.irs.gov/businesses/business-taxes",
+            "jurisdiction": "Federal",
+            "title": "Business taxes | Internal Revenue Service",
+            "description": "The form of business you operate determines what taxes you must pay and how you pay them. The following are the five general types of business taxes.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Business taxes | Internal Revenue Service', 'link': 'https://www.irs.gov/businesses/business-taxes', 'snippet': 'The form of business you operate determines what taxes you must pay and how you pay them. The following are the five general types of business taxes.', 'sitelinks': [{'title': 'Excise tax', 'link': 'https://www.irs.gov/businesses/small-businesses-self-employed/excise-tax'}, {'title': 'Employment taxes', 'link': 'https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes'}, {'title': 'Filing and paying your...', 'link': 'https://www.irs.gov/businesses/small-businesses-self-employed/filing-and-paying-your-business-taxes'}, {'title': 'Taxable income', 'link': 'https://www.irs.gov/businesses/small-businesses-self-employed/what-is-taxable-and-nontaxable-income'}], 'position': 1}"
+        },
+        {
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed",
+            "jurisdiction": "Federal",
+            "title": "Small Businesses Self-Employed | Internal Revenue Service",
+            "description": "Access tax forms, including Form Schedule C, Form 941, publications, eLearning resources, and more for small businesses with assets under $10 million.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Small Businesses Self-Employed | Internal Revenue Service', 'link': 'https://www.irs.gov/businesses/small-businesses-self-employed', 'snippet': 'Access tax forms, including Form Schedule C, Form 941, publications, eLearning resources, and more for small businesses with assets under $10 million.', 'position': 2}"
+        },
+        {
+            "url": "https://www.irs.gov/forms-pubs/about-publication-334",
+            "jurisdiction": "Federal",
+            "title": "About Publication 334, Tax Guide for Small Business (For ... - IRS",
+            "description": "This publication contains general information about the federal tax laws that apply to small business owners who are sole proprietors and to statutory ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'About Publication 334, Tax Guide for Small Business (For ... - IRS', 'link': 'https://www.irs.gov/forms-pubs/about-publication-334', 'snippet': 'This publication contains general information about the federal tax laws that apply to small business owners who are sole proprietors and to statutory ...', 'date': '31 Mar 2025', 'position': 3}"
+        },
+        {
+            "url": "https://www.irs.gov/newsroom/businesses",
+            "jurisdiction": "Federal",
+            "title": "Businesses | Internal Revenue Service",
+            "description": "Check this page for updates and resources to learn how the Tax Cuts and Jobs Act (TCJA) affects businesses. See how tax reform affects your ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Businesses | Internal Revenue Service', 'link': 'https://www.irs.gov/newsroom/businesses', 'snippet': 'Check this page for updates and resources to learn how the Tax Cuts and Jobs Act (TCJA) affects businesses. See how tax reform affects your ...', 'date': '29 May 2025', 'position': 4}"
+        },
+        {
+            "url": "https://www.irs.gov/publications/p334",
+            "jurisdiction": "Federal",
+            "title": "Publication 334 (2024), Tax Guide for Small Business - IRS",
+            "description": "This publication provides general information about the federal tax laws that apply to you if you are a self-employed person or a statutory employee.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Publication 334 (2024), Tax Guide for Small Business - IRS', 'link': 'https://www.irs.gov/publications/p334', 'snippet': 'This publication provides general information about the federal tax laws that apply to you if you are a self-employed person or a statutory employee.', 'position': 5}"
+        },
+        {
+            "url": "https://www.irs.gov/credits-deductions/businesses",
+            "jurisdiction": "Federal",
+            "title": "Credits and deductions for businesses | Internal Revenue Service",
+            "description": "Find information about credits and deductions for businesses and how to claim them on your tax return.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Credits and deductions for businesses | Internal Revenue Service', 'link': 'https://www.irs.gov/credits-deductions/businesses', 'snippet': 'Find information about credits and deductions for businesses and how to claim them on your tax return.', 'date': '21 Jan 2025', 'position': 6}"
+        },
+        {
+            "url": "https://www.irs.gov/newsroom/four-common-tax-errors-that-can-be-costly-for-small-businesses",
+            "jurisdiction": "Federal",
+            "title": "Four common tax errors that can be costly for small businesses - IRS",
+            "description": "Accidentally failing to comply with tax laws, violating tax codes, or filling out forms incorrectly can leave taxpayers and their businesses open to possible ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Four common tax errors that can be costly for small businesses - IRS', 'link': 'https://www.irs.gov/newsroom/four-common-tax-errors-that-can-be-costly-for-small-businesses', 'snippet': 'Accidentally failing to comply with tax laws, violating tax codes, or filling out forms incorrectly can leave taxpayers and their businesses open to possible ...', 'date': '29 May 2025', 'position': 7}"
+        },
+        {
+            "url": "https://www.irs.gov/tax-reform-small-business-initiative",
+            "jurisdiction": "Federal",
+            "title": "Tax Reform Small Business Initiative | Internal Revenue Service",
+            "description": "The Tax Cuts and Jobs Act, enacted in December 2017, affects nearly every business and individual in 2018 and the years ahead.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Tax Reform Small Business Initiative | Internal Revenue Service', 'link': 'https://www.irs.gov/tax-reform-small-business-initiative', 'snippet': 'The Tax Cuts and Jobs Act, enacted in December 2017, affects nearly every business and individual in 2018 and the years ahead.', 'date': '29 May 2025', 'position': 8}"
+        },
+        {
+            "url": "https://www.irs.gov/newsroom/tax-cuts-and-jobs-act-a-comparison-for-businesses",
+            "jurisdiction": "Federal",
+            "title": "Tax Cuts and Jobs Act: A comparison for businesses - IRS",
+            "description": "The Tax Cuts and Jobs Act (TCJA) changed deductions, depreciation, expensing, tax credits and other tax items that affect businesses.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Tax Cuts and Jobs Act: A comparison for businesses - IRS', 'link': 'https://www.irs.gov/newsroom/tax-cuts-and-jobs-act-a-comparison-for-businesses', 'snippet': 'The Tax Cuts and Jobs Act (TCJA) changed deductions, depreciation, expensing, tax credits and other tax items that affect businesses.', 'position': 9}"
+        },
+        {
+            "url": "https://www.irs.gov/privacy-disclosure/tax-code-regulations-and-official-guidance",
+            "jurisdiction": "Federal",
+            "title": "Tax code, regulations and official guidance | Internal Revenue Service",
+            "description": "Different sources provide the authority for tax rules and procedures. Here are some sources that can be searched online for free.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Tax code, regulations and official guidance | Internal Revenue Service', 'link': 'https://www.irs.gov/privacy-disclosure/tax-code-regulations-and-official-guidance', 'snippet': 'Different sources provide the authority for tax rules and procedures. Here are some sources that can be searched online for free.', 'date': '12 Feb 2025', 'position': 10}"
+        },
+        {
+            "url": "http://www.osha.gov/laws-regs",
+            "jurisdiction": "Federal",
+            "title": "Laws and Regulations | Occupational Safety and Health ... - OSHA",
+            "description": "Employers must comply with all applicable OSHA standards. They must also comply with the General Duty Clause of the OSH Act, which requires employers to keep ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Laws and Regulations | Occupational Safety and Health ... - OSHA', 'link': 'http://www.osha.gov/laws-regs', 'snippet': 'Employers must comply with all applicable OSHA standards. They must also comply with the General Duty Clause of the OSH Act, which requires employers to keep ...', 'attributes': {'Missing': 'Tax | Show results with:Tax'}, 'position': 1}"
+        },
+        {
+            "url": "https://www.osha.gov/sites/default/files/publications/OSHA4047.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Whistleblower Protection for Employees Who Report Federal Tax ...",
+            "description": "Employees are protected from retaliation for reporting tax violations, including actions like firing, blacklisting, or demotion, under the Taxpayer First Act.",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Whistleblower Protection for Employees Who Report Federal Tax ...', 'link': 'https://www.osha.gov/sites/default/files/publications/OSHA4047.pdf', 'snippet': 'Employees are protected from retaliation for reporting tax violations, including actions like firing, blacklisting, or demotion, under the Taxpayer First Act.', 'position': 2}"
+        },
+        {
+            "url": "https://www.osha.gov/sites/default/files/publications/osha3021.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Workers' Rights - OSHA",
+            "description": "Provides retaliation protection for employees who report underpayment of tax, violations of internal revenue laws, or violations of federal law relating to tax.",
+            "relevance_score": 1.0,
+            "content": "{'title': \"[PDF] Workers' Rights - OSHA\", 'link': 'https://www.osha.gov/sites/default/files/publications/osha3021.pdf', 'snippet': 'Provides retaliation protection for employees who report underpayment of tax, violations of internal revenue laws, or violations of federal law relating to tax.', 'position': 3}"
+        },
+        {
+            "url": "http://www.osha.gov/laws-regs/standardinterpretations/2014-11-13",
+            "jurisdiction": "Federal",
+            "title": "Employer payment for personal protective equipment - OSHA",
+            "description": "In this [final rule], OSHA is requiring employers to pay for the PPE provided, with exceptions for specific items.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Employer payment for personal protective equipment - OSHA', 'link': 'http://www.osha.gov/laws-regs/standardinterpretations/2014-11-13', 'snippet': 'In this [final rule], OSHA is requiring employers to pay for the PPE provided, with exceptions for specific items.', 'position': 4}"
+        },
+        {
+            "url": "http://www.osha.gov/itareportapp",
+            "jurisdiction": "Federal",
+            "title": "ITA Coverage Application | Occupational Safety and Health ... - OSHA",
+            "description": "The ITA Coverage Application helps to determine if your establishment is required to electronically submit 300A and 300/301 data through the ITA.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'ITA Coverage Application | Occupational Safety and Health ... - OSHA', 'link': 'http://www.osha.gov/itareportapp', 'snippet': 'The ITA Coverage Application helps to determine if your establishment is required to electronically submit 300A and 300/301 data through the ITA.', 'position': 5}"
+        },
+        {
+            "url": "https://www.osha.gov/sites/default/files/publications/OSHA3302.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] All About OSHA",
+            "description": "Taxpayer First Act (TFA) (180 days). Provides retaliation protection for employees who report underpayment of tax, violations of internal ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] All About OSHA', 'link': 'https://www.osha.gov/sites/default/files/publications/OSHA3302.pdf', 'snippet': 'Taxpayer First Act (TFA) (180 days). Provides retaliation protection for employees who report underpayment of tax, violations of internal ...', 'date': '15 Sept 2022', 'position': 6}"
+        },
+        {
+            "url": "https://www.osha.gov/sites/default/files/sge_manual09132021.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] SGE Program Policy and Procedures Manual for OSHA VPP",
+            "description": "This manual provides the policy framework for SGE activity, expands the role of SGEs, and requires US citizenship, annual financial disclosure, and DoD SGEs.",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] SGE Program Policy and Procedures Manual for OSHA VPP', 'link': 'https://www.osha.gov/sites/default/files/sge_manual09132021.pdf', 'snippet': 'This manual provides the policy framework for SGE activity, expands the role of SGEs, and requires US citizenship, annual financial disclosure, and DoD SGEs.', 'position': 7}"
+        },
+        {
+            "url": "http://www.osha.gov/penalties/payments",
+            "jurisdiction": "Federal",
+            "title": "Penalty Payment | Occupational Safety and Health Administration",
+            "description": "OSHA collects penalty payments for citations issued for employer violations of OSHA regulations. Learn more about citations, penalties, and steps to take.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Penalty Payment | Occupational Safety and Health Administration', 'link': 'http://www.osha.gov/penalties/payments', 'snippet': 'OSHA collects penalty payments for citations issued for employer violations of OSHA regulations. Learn more about citations, penalties, and steps to take.', 'position': 8}"
+        },
+        {
+            "url": "http://www.osha.gov/coronavirus/standards",
+            "jurisdiction": "Federal",
+            "title": "COVID-19 - Regulations | Occupational Safety and Health ... - OSHA",
+            "description": "OSHA recordkeeping requirements mandate covered employers record certain work-related injuries and illnesses on their OSHA 300 log (29 CFR Part 1904).",
+            "relevance_score": 1.0,
+            "content": "{'title': 'COVID-19 - Regulations | Occupational Safety and Health ... - OSHA', 'link': 'http://www.osha.gov/coronavirus/standards', 'snippet': 'OSHA recordkeeping requirements mandate covered employers record certain work-related injuries and illnesses on their OSHA 300 log (29 CFR Part 1904).', 'position': 9}"
+        },
+        {
+            "url": "https://www.osha.gov/sites/default/files/publications/OSHA3746.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Updates to OSHA's Recordkeeping Rule: Who is Required to Keep ...",
+            "description": "Employers with 10 or fewer employees are exempt. Some low-hazard industries are partially exempt. Check your NAICS code and Table 1 to determine if you are ...",
+            "relevance_score": 1.0,
+            "content": "{'title': \"[PDF] Updates to OSHA's Recordkeeping Rule: Who is Required to Keep ...\", 'link': 'https://www.osha.gov/sites/default/files/publications/OSHA3746.pdf', 'snippet': 'Employers with 10 or fewer employees are exempt. Some low-hazard industries are partially exempt. Check your NAICS code and Table 1 to determine if you are ...', 'position': 10}"
+        },
+        {
+            "url": "https://www.epa.gov/verified-diesel-tech/learn-about-federal-excise-tax-exemption",
+            "jurisdiction": "Federal",
+            "title": "Learn About Federal Excise Tax Exemption | US EPA",
+            "description": "This list shows products that are currently eligible for Federal Excise Tax Exemption.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Learn About Federal Excise Tax Exemption | US EPA', 'link': 'https://www.epa.gov/verified-diesel-tech/learn-about-federal-excise-tax-exemption', 'snippet': 'This list shows products that are currently eligible for Federal Excise Tax Exemption.', 'date': 'Apr 28, 2025', 'position': 1}"
+        },
+        {
+            "url": "https://www.epa.gov/green-power-markets/summary-inflation-reduction-act-provisions-related-renewable-energy",
+            "jurisdiction": "Federal",
+            "title": "Summary of Inflation Reduction Act provisions related to renewable ...",
+            "description": "The Investment Tax Credit (ITC) and Production Tax Credit (PTC) allow taxpayers to deduct a percentage of the cost of renewable energy systems from their ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Summary of Inflation Reduction Act provisions related to renewable ...', 'link': 'https://www.epa.gov/green-power-markets/summary-inflation-reduction-act-provisions-related-renewable-energy', 'snippet': 'The Investment Tax Credit (ITC) and Production Tax Credit (PTC) allow taxpayers to deduct a percentage of the cost of renewable energy systems from their ...', 'position': 2}"
+        },
+        {
+            "url": "https://www.epa.gov/system/files/documents/2023-12/2023-csb-rebate-tax-credits-pres-2023-12-05.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] 2023 CSB Rebates: Overview of IRS Tax Credits w",
+            "description": "Under Title XI: Clean School Buses and Ferries, the. Bipartisan Infrastructure Law (BIL) provides $5 billion over five years (FY22-26) for the ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] 2023 CSB Rebates: Overview of IRS Tax Credits w', 'link': 'https://www.epa.gov/system/files/documents/2023-12/2023-csb-rebate-tax-credits-pres-2023-12-05.pdf', 'snippet': 'Under Title XI: Clean School Buses and Ferries, the. Bipartisan Infrastructure Law (BIL) provides $5 billion over five years (FY22-26) for the ...', 'date': 'Dec 5, 2023', 'position': 3}"
+        },
+        {
+            "url": "https://www.epa.gov/pria-fees/pria-fee-waivers-small-businesses",
+            "jurisdiction": "Federal",
+            "title": "PRIA Fee Waivers for Small Businesses | US EPA",
+            "description": "An applicant that qualifies as a small business is eligible for a partial waiver of 50% or, in some cases, 75% of the registration service fee.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'PRIA Fee Waivers for Small Businesses | US EPA', 'link': 'https://www.epa.gov/pria-fees/pria-fee-waivers-small-businesses', 'snippet': 'An applicant that qualifies as a small business is eligible for a partial waiver of 50% or, in some cases, 75% of the registration service fee.', 'date': 'Jun 27, 2025', 'position': 4}"
+        },
+        {
+            "url": "https://www.epa.gov/sites/default/files/2020-08/documents/collecting_policy.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Guidance for Collecting & Understanding Relevant Policy and ...",
+            "description": "However, tax laws do not allow third-party owners to utilize tax incentives if they are leasing to tax-exempt entities. This restriction usually makes third ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Guidance for Collecting & Understanding Relevant Policy and ...', 'link': 'https://www.epa.gov/sites/default/files/2020-08/documents/collecting_policy.pdf', 'snippet': 'However, tax laws do not allow third-party owners to utilize tax incentives if they are leasing to tax-exempt entities. This restriction usually makes third ...', 'position': 5}"
+        },
+        {
+            "url": "https://www.epa.gov/system/files/documents/2024-04/tsca-cbinotice-qanda.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] TSCA CBI Notice Questions and Answers",
+            "description": "A: This Notice provides your business with instructions about how to assert a claim of confidentiality (or confidential business information (CBI) claim) ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] TSCA CBI Notice Questions and Answers', 'link': 'https://www.epa.gov/system/files/documents/2024-04/tsca-cbinotice-qanda.pdf', 'snippet': 'A: This Notice provides your business with instructions about how to assert a claim of confidentiality (or confidential business information (CBI) claim) ...', 'position': 6}"
+        },
+        {
+            "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100EDKE.TXT",
+            "jurisdiction": "Federal",
+            "title": "Practical Guide to Management for Small Business Environmental",
+            "description": "What if I find my business is not in compliance? While determining what laws and regulations apply to your business, you might discover that you have not ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Practical Guide to Management for Small Business Environmental', 'link': 'https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100EDKE.TXT', 'snippet': 'What if I find my business is not in compliance? While determining what laws and regulations apply to your business, you might discover that you have not ...', 'position': 7}"
+        },
+        {
+            "url": "https://www.epa.gov/channels/laws-regulations?sort_by=updated&sort_order=DESC&page=813",
+            "jurisdiction": "Federal",
+            "title": "Laws & Regulations | US EPA",
+            "description": "The Lead Renovation, Repair, and Painting (RRP) Rule applies to renovations performed for compensation. Compensation includes pay for work performed, such as ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Laws & Regulations | US EPA', 'link': 'https://www.epa.gov/channels/laws-regulations?sort_by=updated&sort_order=DESC&page=813', 'snippet': 'The Lead Renovation, Repair, and Painting (RRP) Rule applies to renovations performed for compensation. Compensation includes pay for work performed, such as ...', 'position': 8}"
+        },
+        {
+            "url": "https://www.epa.gov/sites/default/files/2021-04/partialyeardata-atpdatarequestformforbusiness.xlsx",
+            "jurisdiction": "Federal",
+            "title": "[XLS] Financial Inputs",
+            "description": "Pursuant to the regulations set forth at 40 C.F.R. Part 2, Subpart B, a business is entitled to assert a CBI claim covering any part of the submitted ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[XLS] Financial Inputs', 'link': 'https://www.epa.gov/sites/default/files/2021-04/partialyeardata-atpdatarequestformforbusiness.xlsx', 'snippet': 'Pursuant to the regulations set forth at 40 C.F.R. Part 2, Subpart B, a business is entitled to assert a CBI claim covering any part of the submitted ...', 'position': 9}"
+        },
+        {
+            "url": "https://www.epa.gov/environmental-economics/economic-incentives",
+            "jurisdiction": "Federal",
+            "title": "Economic Incentives | US EPA",
+            "description": "Fees, charges, and taxes are widely used incentives which generally place a per unit monetary charge (or fee or tax) on pollution emissions or ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Economic Incentives | US EPA', 'link': 'https://www.epa.gov/environmental-economics/economic-incentives', 'snippet': 'Fees, charges, and taxes are widely used incentives which generally place a per unit monetary charge (or fee or tax) on pollution emissions or ...', 'date': 'Jul 22, 2025', 'position': 10}"
+        },
+        {
+            "url": "https://www.dol.gov/agencies/odep/program-areas/employers/tax-incentives-for-employers",
+            "jurisdiction": "Federal",
+            "title": "Tax Incentives for Employers | U.S. Department of Labor",
+            "description": "Work Opportunity Tax Credit (WOTC) \u2014 This credit is available to employers for hiring individuals from certain target groups .",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Tax Incentives for Employers | U.S. Department of Labor', 'link': 'https://www.dol.gov/agencies/odep/program-areas/employers/tax-incentives-for-employers', 'snippet': 'Work Opportunity Tax Credit (WOTC) \u2014 This credit is available to employers for hiring individuals from certain target groups .', 'attributes': {'Missing': 'my | Show results with:my'}, 'position': 1}"
+        },
+        {
+            "url": "https://www.dol.gov/general/aboutdol/majorlaws",
+            "jurisdiction": "Federal",
+            "title": "Summary of the Major Laws of the Department of Labor",
+            "description": "The US Department of Labor (DOL) administers and enforces more than 180 federal laws. These mandates and the regulations that implement them cover many ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Summary of the Major Laws of the Department of Labor', 'link': 'https://www.dol.gov/general/aboutdol/majorlaws', 'snippet': 'The US Department of Labor (DOL) administers and enforces more than 180 federal laws. These mandates and the regulations that implement them cover many ...', 'attributes': {'Missing': 'Tax | Show results with:Tax'}, 'position': 2}"
+        },
+        {
+            "url": "https://www.dol.gov/sites/dolgov/files/WHD/publications/WH1482.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Labor Standards Information - New and Small Businesses",
+            "description": "States and other jurisdictions often have their own employment standards laws. If both federal and state or local law apply to your business, you must comply.",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Labor Standards Information - New and Small Businesses', 'link': 'https://www.dol.gov/sites/dolgov/files/WHD/publications/WH1482.pdf', 'snippet': 'States and other jurisdictions often have their own employment standards laws. If both federal and state or local law apply to your business, you must comply.', 'position': 3}"
+        },
+        {
+            "url": "https://www.dol.gov/sites/dolgov/files/ETA/wotc/pdfs/WOTC_Quick_Reference_Guide_for_Employers.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Work Opportunity Tax Credit: Quick Reference GUide for Employers",
+            "description": "WHAT IS WOTC? The WOTC is a federal tax credit available to employers who invest in American job seekers who have consistently faced barriers to employment.",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Work Opportunity Tax Credit: Quick Reference GUide for Employers', 'link': 'https://www.dol.gov/sites/dolgov/files/ETA/wotc/pdfs/WOTC_Quick_Reference_Guide_for_Employers.pdf', 'snippet': 'WHAT IS WOTC? The WOTC is a federal tax credit available to employers who invest in American job seekers who have consistently faced barriers to employment.', 'position': 4}"
+        },
+        {
+            "url": "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/choosing-a-retirement-solution-for-your-small-business",
+            "jurisdiction": "Federal",
+            "title": "Choosing a Retirement Solution for Your Small Business",
+            "description": "Withdrawals permitted anytime subject to federal income taxes; early withdrawals subject to an additional tax (special rules apply to Roth IRAs).",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Choosing a Retirement Solution for Your Small Business', 'link': 'https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/choosing-a-retirement-solution-for-your-small-business', 'snippet': 'Withdrawals permitted anytime subject to federal income taxes; early withdrawals subject to an additional tax (special rules apply to Roth IRAs).', 'position': 5}"
+        },
+        {
+            "url": "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/simple-ira-plans-for-small-businesses",
+            "jurisdiction": "Federal",
+            "title": "SIMPLE IRA Plans for Small Businesses | U.S. Department of Labor",
+            "description": "You must make your employer contributions by the due date for filing your business's Federal income tax return for the year (including extensions, if applicable) ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'SIMPLE IRA Plans for Small Businesses | U.S. Department of Labor', 'link': 'https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/simple-ira-plans-for-small-businesses', 'snippet': \"You must make your employer contributions by the due date for filing your business's Federal income tax return for the year (including extensions, if applicable) ...\", 'position': 6}"
+        },
+        {
+            "url": "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/sep-retirement-plans-for-small-businesses",
+            "jurisdiction": "Federal",
+            "title": "SEP Retirement Plans For Small Businesses",
+            "description": "Contributions to a SEP are tax deductible, and your business pays no taxes on the investment earnings. \u00b7 You are not locked into making contributions every year.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'SEP Retirement Plans For Small Businesses', 'link': 'https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/sep-retirement-plans-for-small-businesses', 'snippet': 'Contributions to a SEP are tax deductible, and your business pays no taxes on the investment earnings. \u00b7 You are not locked into making contributions every year.', 'position': 7}"
+        },
+        {
+            "url": "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/profit-sharing-plans-for-small-businesses",
+            "jurisdiction": "Federal",
+            "title": "Profit Sharing Plans for Small Businesses | U.S. Department of Labor",
+            "description": "To preserve the tax benefits of a profit sharing plan, the plan must provide substantive benefits for rank-and-file employees, not just business owners and ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Profit Sharing Plans for Small Businesses | U.S. Department of Labor', 'link': 'https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/profit-sharing-plans-for-small-businesses', 'snippet': 'To preserve the tax benefits of a profit sharing plan, the plan must provide substantive benefits for rank-and-file employees, not just business owners and ...', 'position': 8}"
+        },
+        {
+            "url": "https://www.dol.gov/agencies/eta/wotc",
+            "jurisdiction": "Federal",
+            "title": "Work Opportunity Tax Credit | U.S. Department of Labor",
+            "description": "The Work Opportunity Tax Credit (WOTC) is a federal tax credit available to employers who invest in American job seekers who have consistently faced barriers ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Work Opportunity Tax Credit | U.S. Department of Labor', 'link': 'https://www.dol.gov/agencies/eta/wotc', 'snippet': 'The Work Opportunity Tax Credit (WOTC) is a federal tax credit available to employers who invest in American job seekers who have consistently faced barriers ...', 'sitelinks': [{'title': 'How to File a WOTC...', 'link': 'https://www.dol.gov/agencies/eta/wotc/how-to-file'}, {'title': 'Resources', 'link': 'https://www.dol.gov/agencies/eta/wotc/resources'}, {'title': 'Performance', 'link': 'https://www.dol.gov/agencies/eta/wotc/performance'}, {'title': 'Contact', 'link': 'https://www.dol.gov/agencies/eta/wotc/contact'}], 'position': 9}"
+        },
+        {
+            "url": "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/401k-plans-for-small-businesses",
+            "jurisdiction": "Federal",
+            "title": "401(k) Plans For Small Businesses | U.S. Department of Labor",
+            "description": "To preserve the tax benefits of a 401(k) plan, the plan must provide substantive benefits for rank-and-file employees, not just business owners and managers.",
+            "relevance_score": 1.0,
+            "content": "{'title': '401(k) Plans For Small Businesses | U.S. Department of Labor', 'link': 'https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/401k-plans-for-small-businesses', 'snippet': 'To preserve the tax benefits of a 401(k) plan, the plan must provide substantive benefits for rank-and-file employees, not just business owners and managers.', 'position': 10}"
+        },
+        {
+            "url": "https://www.msha.gov/sites/default/files/Training_Education/e-CFRPart200Jan22015.1.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] eCFR -Code of Federal Regulations Page 1 of 145 http ... - MSHA",
+            "description": "Foreign tax refunds or applicable credits under Federal awards refer to receipts, or reduction of expenditures, which operate to offset or ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] eCFR -Code of Federal Regulations Page 1 of 145 http ... - MSHA', 'link': 'https://www.msha.gov/sites/default/files/Training_Education/e-CFRPart200Jan22015.1.pdf', 'snippet': 'Foreign tax refunds or applicable credits under Federal awards refer to receipts, or reduction of expenditures, which operate to offset or ...', 'date': '20 Jul 2016', 'position': 1}"
+        },
+        {
+            "url": "https://www.msha.gov/sites/default/files/Directive%20%26%20Guidance/Manuals/PPM-Vol-III.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Program Policy Manual Volume III - 30 CFR PARTS 40 THROUGH ...",
+            "description": "However, some provisions of the Act, standards or regulations may not be directly applicable to independent contractors or their work; or independent contractor ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Program Policy Manual Volume III - 30 CFR PARTS 40 THROUGH ...', 'link': 'https://www.msha.gov/sites/default/files/Directive%20%26%20Guidance/Manuals/PPM-Vol-III.pdf', 'snippet': 'However, some provisions of the Act, standards or regulations may not be directly applicable to independent contractors or their work; or independent contractor ...', 'position': 2}"
+        },
+        {
+            "url": "http://www.msha.gov/form-2000-7-online-instructions",
+            "jurisdiction": "Federal",
+            "title": "Form 2000-7 Online Instructions",
+            "description": "The Mine Safety and Health Administration has developed these instructions to aid you in completing the online Legal Identity Report, Form 2000-7.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Form 2000-7 Online Instructions', 'link': 'http://www.msha.gov/form-2000-7-online-instructions', 'snippet': 'The Mine Safety and Health Administration has developed these instructions to aid you in completing the online Legal Identity Report, Form 2000-7.', 'position': 3}"
+        },
+        {
+            "url": "https://www.msha.gov/sites/default/files/Regulations/Proposed-Final-Rules/PlanVerify-SingleSampleprea2003.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] The Proposed Rule Concerning Determination of Concentration of ...",
+            "description": "respirable dust control plan applicable to the work position after abating a citation for excessive dust. Section 90.300 requires a coal operator who ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] The Proposed Rule Concerning Determination of Concentration of ...', 'link': 'https://www.msha.gov/sites/default/files/Regulations/Proposed-Final-Rules/PlanVerify-SingleSampleprea2003.pdf', 'snippet': 'respirable dust control plan applicable to the work position after abating a citation for excessive dust. Section 90.300 requires a coal operator who ...', 'position': 4}"
+        },
+        {
+            "url": "https://arlweb.msha.gov/training/materials/small-mine-guide/Small-Mine-E-Guide-English.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] EFSMS Small Mine E-Guide",
+            "description": "Independent contractors are responsible for compliance with applicable provisions of the Act, standards and regulations, regardless of whether or not they have ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] EFSMS Small Mine E-Guide', 'link': 'https://arlweb.msha.gov/training/materials/small-mine-guide/Small-Mine-E-Guide-English.pdf', 'snippet': 'Independent contractors are responsible for compliance with applicable provisions of the Act, standards and regulations, regardless of whether or not they have ...', 'position': 5}"
+        },
+        {
+            "url": "https://arlweb.msha.gov/REGS/Comments/2023-1219/AB36-Comm-148-2.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] TESTIMONY OF - MSHA",
+            "description": "This testimony reviews methods and assumptions that OSHA used in performing its Preliminary. Economic Analysis and Initial Regulatory Flexibility Analysis, (PEA) ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] TESTIMONY OF - MSHA', 'link': 'https://arlweb.msha.gov/REGS/Comments/2023-1219/AB36-Comm-148-2.pdf', 'snippet': 'This testimony reviews methods and assumptions that OSHA used in performing its Preliminary. Economic Analysis and Initial Regulatory Flexibility Analysis, (PEA) ...', 'position': 6}"
+        },
+        {
+            "url": "https://arlweb.msha.gov/REGS/Comments/06-7512/Transcripts/1004SaltLakeCityUT.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Mine Safety and Health Administration (MSHA)",
+            "description": "violations of the thousands of regulations applicable. 12 to our facilities. The MINER Act adopted specific,. 13 detailed provisions aimed primarily at ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Mine Safety and Health Administration (MSHA)', 'link': 'https://arlweb.msha.gov/REGS/Comments/06-7512/Transcripts/1004SaltLakeCityUT.pdf', 'snippet': 'violations of the thousands of regulations applicable. 12 to our facilities. The MINER Act adopted specific,. 13 detailed provisions aimed primarily at ...', 'position': 7}"
+        },
+        {
+            "url": "https://arlweb.msha.gov/regs/comments/2019-18478/AB36-COMM-37-4.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Supplemental Testimony regarding the June 20, 2019 Hearing ...",
+            "description": "The attached testimony provides follow up comments and observations pertaining to the recent hearing conducted by your Subcommittee on June 20, 2019, ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Supplemental Testimony regarding the June 20, 2019 Hearing ...', 'link': 'https://arlweb.msha.gov/regs/comments/2019-18478/AB36-COMM-37-4.pdf', 'snippet': 'The attached testimony provides follow up comments and observations pertaining to the recent hearing conducted by your Subcommittee on June 20, 2019, ...', 'position': 8}"
+        },
+        {
+            "url": "https://arlweb.msha.gov/solicitor/fmshrc/freqdecs/Kenny%20Richardson,%203%20FMSHRC%208%20(Jan.%201981).pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] federal mine safety and health review commission",
+            "description": "This portion of the tax was found to be unconstitutional. The Court found that the tax was not rationally related to the purpose of the. Act-- ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] federal mine safety and health review commission', 'link': 'https://arlweb.msha.gov/solicitor/fmshrc/freqdecs/Kenny%20Richardson,%203%20FMSHRC%208%20(Jan.%201981).pdf', 'snippet': 'This portion of the tax was found to be unconstitutional. The Court found that the tax was not rationally related to the purpose of the. Act-- ...', 'date': '19 Jan 1981', 'position': 9}"
+        },
+        {
+            "url": "https://arlweb.msha.gov/performancecoal/Transcripts/May2011/I-0054.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] MSHA - Upper Big Branch Mine Accident Investigation",
+            "description": "This investigation is being conducted by 2 MSHA under Section 103(a) of the Mine Act and the West 3 Virginia Office of Miners' Health, Safety and 4 Training. ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] MSHA - Upper Big Branch Mine Accident Investigation', 'link': 'https://arlweb.msha.gov/performancecoal/Transcripts/May2011/I-0054.pdf', 'snippet': \"This investigation is being conducted by 2 MSHA under Section 103(a) of the Mine Act and the West 3 Virginia Office of Miners' Health, Safety and 4 Training. ...\", 'position': 10}"
+        },
+        {
+            "url": "https://www.eeoc.gov/publications/small-employers-and-reasonable-accommodation",
+            "jurisdiction": "Federal",
+            "title": "Small Employers And Reasonable Accommodation",
+            "description": "This guide answers some of the key questions facing small businesses in connection with reasonable accommodations.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Small Employers And Reasonable Accommodation', 'link': 'https://www.eeoc.gov/publications/small-employers-and-reasonable-accommodation', 'snippet': 'This guide answers some of the key questions facing small businesses in connection with reasonable accommodations.', 'position': 1}"
+        },
+        {
+            "url": "https://www.eeoc.gov/laws/guidance/section-10-compensation-discrimination",
+            "jurisdiction": "Federal",
+            "title": "Section 10 Compensation Discrimination",
+            "description": "This document addresses the standards under which compensation discrimination is established in violation of Title VII, the ADEA, the ADA, and the EPA.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Section 10 Compensation Discrimination', 'link': 'https://www.eeoc.gov/laws/guidance/section-10-compensation-discrimination', 'snippet': 'This document addresses the standards under which compensation discrimination is established in violation of Title VII, the ADEA, the ADA, and the EPA.', 'date': 'Dec 5, 2000', 'position': 2}"
+        },
+        {
+            "url": "https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada",
+            "jurisdiction": "Federal",
+            "title": "Enforcement Guidance on Reasonable Accommodation and Undue ...",
+            "description": "This document addresses the rights and responsibilities of employers and individuals with disabilities regarding reasonable accommodation and undue hardship.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Enforcement Guidance on Reasonable Accommodation and Undue ...', 'link': 'https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada', 'snippet': 'This document addresses the rights and responsibilities of employers and individuals with disabilities regarding reasonable accommodation and undue hardship.', 'date': 'Oct 17, 2002', 'position': 3}"
+        },
+        {
+            "url": "https://www.eeoc.gov/laws/guidance/enforcement-guidance-application-eeo-laws-contingent-workers-placed-temporary",
+            "jurisdiction": "Federal",
+            "title": "Enforcement Guidance: Application of EEO Laws to Contingent ...",
+            "description": "This document provides guidance regarding the application of the anti-discrimination statutes to temporary, contract, and other contingent employees.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Enforcement Guidance: Application of EEO Laws to Contingent ...', 'link': 'https://www.eeoc.gov/laws/guidance/enforcement-guidance-application-eeo-laws-contingent-workers-placed-temporary', 'snippet': 'This document provides guidance regarding the application of the anti-discrimination statutes to temporary, contract, and other contingent employees.', 'date': 'Dec 3, 1997', 'position': 4}"
+        },
+        {
+            "url": "https://www.eeoc.gov/fiscal-year-2023-agency-financial-report",
+            "jurisdiction": "Federal",
+            "title": "Fiscal Year 2023 Agency Financial Report",
+            "description": "The Fiscal Year 2023 Agency Financial Report (AFR) will describe the financial management of the US Equal Employment Opportunity Commission (the EEOC or agency)",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Fiscal Year 2023 Agency Financial Report', 'link': 'https://www.eeoc.gov/fiscal-year-2023-agency-financial-report', 'snippet': 'The Fiscal Year 2023 Agency Financial Report (AFR) will describe the financial management of the US Equal Employment Opportunity Commission (the EEOC or agency)', 'position': 5}"
+        },
+        {
+            "url": "https://www.eeoc.gov/meetings/meeting-april-29-2020/transcript",
+            "jurisdiction": "Federal",
+            "title": "Meeting of April 29, 2020 - Transcript",
+            "description": "The Commission has been asked to provide its views on whether an employer's use of Internal Revenue Service Form 8850 in applying for the ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Meeting of April 29, 2020 - Transcript', 'link': 'https://www.eeoc.gov/meetings/meeting-april-29-2020/transcript', 'snippet': \"The Commission has been asked to provide its views on whether an employer's use of Internal Revenue Service Form 8850 in applying for the ...\", 'date': 'Apr 29, 2020', 'position': 6}"
+        },
+        {
+            "url": "https://www.eeoc.gov/sites/default/files/2022-11/22-137%20EEOC-2022%20AFR_111522.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Fiscal Year 2022 Agency Financial Report",
+            "description": "Today, promoting equal employment opportunity and enforcing the nation's federal workplace anti-discrimination laws remain as necessary as ever.",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Fiscal Year 2022 Agency Financial Report', 'link': 'https://www.eeoc.gov/sites/default/files/2022-11/22-137%20EEOC-2022%20AFR_111522.pdf', 'snippet': \"Today, promoting equal employment opportunity and enforcing the nation's federal workplace anti-discrimination laws remain as necessary as ever.\", 'date': 'Nov 15, 2022', 'position': 7}"
+        },
+        {
+            "url": "https://www.eeoc.gov/fiscal-year-2019-agency-financial-report-us-equal-employment-opportunity-commission",
+            "jurisdiction": "Federal",
+            "title": "Fiscal Year 2019 Agency Financial Report U.S. Equal Employment ...",
+            "description": "The site provides a user-friendly one-stop source for information on federal employment anti-discrimination laws tailored to meet the needs of small businesses.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Fiscal Year 2019 Agency Financial Report U.S. Equal Employment ...', 'link': 'https://www.eeoc.gov/fiscal-year-2019-agency-financial-report-us-equal-employment-opportunity-commission', 'snippet': 'The site provides a user-friendly one-stop source for information on federal employment anti-discrimination laws tailored to meet the needs of small businesses.', 'position': 8}"
+        },
+        {
+            "url": "https://www.eeoc.gov/fiscal-year-2020-annual-performance-report",
+            "jurisdiction": "Federal",
+            "title": "Fiscal Year 2020 Annual Performance Report",
+            "description": "The programs provide detailed information about applicable laws, potential liabilities, and activities that relate to employment discrimination, with the ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Fiscal Year 2020 Annual Performance Report', 'link': 'https://www.eeoc.gov/fiscal-year-2020-annual-performance-report', 'snippet': 'The programs provide detailed information about applicable laws, potential liabilities, and activities that relate to employment discrimination, with the ...', 'position': 9}"
+        },
+        {
+            "url": "https://www.eeoc.gov/federal-sector/digest/digest-equal-employment-opportunity-law-0",
+            "jurisdiction": "Federal",
+            "title": "The DIGEST Of Equal Employment Opportunity Law | U.S. Equal ...",
+            "description": "Digest of EEO Law: Fiscal Year 2019 Vol. 4.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'The DIGEST Of Equal Employment Opportunity Law | U.S. Equal ...', 'link': 'https://www.eeoc.gov/federal-sector/digest/digest-equal-employment-opportunity-law-0', 'snippet': 'Digest of EEO Law: Fiscal Year 2019 Vol. 4.', 'position': 10}"
+        },
+        {
+            "url": "https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/CMS/ab_py2020_small_business_health_options_program.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Small Business Health Options Program Module - HHS.gov",
+            "description": "This module teaches about the Small Business Health Options Program (SHOP), how agents/brokers help employers with enrollment, and how to understand ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Small Business Health Options Program Module - HHS.gov', 'link': 'https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/CMS/ab_py2020_small_business_health_options_program.pdf', 'snippet': 'This module teaches about the Small Business Health Options Program (SHOP), how agents/brokers help employers with enrollment, and how to understand ...', 'position': 1}"
+        },
+        {
+            "url": "https://www.acf.hhs.gov/css/resource/the-difference-between-an-independent-contractor-and-an-employee",
+            "jurisdiction": "Federal",
+            "title": "What's the Difference Between an Independent Contractor and an ...",
+            "description": "For the independent contractor, the company does not withhold taxes. Employment and labor laws also do not apply to independent contractors.",
+            "relevance_score": 1.0,
+            "content": "{'title': \"What's the Difference Between an Independent Contractor and an ...\", 'link': 'https://www.acf.hhs.gov/css/resource/the-difference-between-an-independent-contractor-and-an-employee', 'snippet': 'For the independent contractor, the company does not withhold taxes. Employment and labor laws also do not apply to independent contractors.', 'date': 'Oct 23, 2018', 'position': 2}"
+        },
+        {
+            "url": "https://www.acf.hhs.gov/css/outreach-material/processing-income-withholding-order-or-notice",
+            "jurisdiction": "Federal",
+            "title": "Processing an Income Withholding Order or Notice",
+            "description": "Mandatory deductions include federal, state, and local taxes; unemployment insurance; workers' compensation insurance; state employee retirement ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Processing an Income Withholding Order or Notice', 'link': 'https://www.acf.hhs.gov/css/outreach-material/processing-income-withholding-order-or-notice', 'snippet': \"Mandatory deductions include federal, state, and local taxes; unemployment insurance; workers' compensation insurance; state employee retirement ...\", 'date': 'Apr 30, 2024', 'position': 3}"
+        },
+        {
+            "url": "https://www.acf.hhs.gov/occ/resource/covid-19-legislation-guide-for-ccdf-administrators",
+            "jurisdiction": "Federal",
+            "title": "COVID-19 Legislation Guide for CCDF Administrators",
+            "description": "Advance credits may be available. Refundable tax credit. Applies to wages paid after March 12, 2020, and before January 1, 2021. Employee ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'COVID-19 Legislation Guide for CCDF Administrators', 'link': 'https://www.acf.hhs.gov/occ/resource/covid-19-legislation-guide-for-ccdf-administrators', 'snippet': 'Advance credits may be available. Refundable tax credit. Applies to wages paid after March 12, 2020, and before January 1, 2021. Employee ...', 'date': 'May 28, 2020', 'position': 4}"
+        },
+        {
+            "url": "https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/FDA/small-business-qualification-determination-guidance.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Medical Device User Fee Small Business Qualification ... - HHS.gov",
+            "description": "Although the law does not prohibit a foreign business from submitting a Federal (U.S.) income tax return, filing a Federal (U.S.) income tax ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Medical Device User Fee Small Business Qualification ... - HHS.gov', 'link': 'https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/FDA/small-business-qualification-determination-guidance.pdf', 'snippet': 'Although the law does not prohibit a foreign business from submitting a Federal (U.S.) income tax return, filing a Federal (U.S.) income tax ...', 'date': 'Jul 31, 2025', 'position': 5}"
+        },
+        {
+            "url": "https://www.hhs.gov/answers/health-insurance-reform/am-i-required-to-offer-health-insurance-to-employees/index.html",
+            "jurisdiction": "Federal",
+            "title": "As a small business owner, am I required to offer health insurance to ...",
+            "description": "If your business qualifies as small (fewer than 50 full-time employees and full-time equivalents FTEs), you are not required to offer coverage.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'As a small business owner, am I required to offer health insurance to ...', 'link': 'https://www.hhs.gov/answers/health-insurance-reform/am-i-required-to-offer-health-insurance-to-employees/index.html', 'snippet': 'If your business qualifies as small (fewer than 50 full-time employees and full-time equivalents FTEs), you are not required to offer coverage.', 'date': 'Apr 20, 2023', 'position': 6}"
+        },
+        {
+            "url": "https://childcareta.acf.hhs.gov/sites/default/files/rg2e_startingandoperatingachildcarebusiness_111418_eng.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Starting and Operating a Child Care Business",
+            "description": "To learn about state tax laws that apply to child care businesses, contact your state revenue department. Links to state revenue and tax departments are ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Starting and Operating a Child Care Business', 'link': 'https://childcareta.acf.hhs.gov/sites/default/files/rg2e_startingandoperatingachildcarebusiness_111418_eng.pdf', 'snippet': 'To learn about state tax laws that apply to child care businesses, contact your state revenue department. Links to state revenue and tax departments are ...', 'position': 7}"
+        },
+        {
+            "url": "https://www.acf.hhs.gov/css/faq/how-does-federal-tax-refund-offset-program-work",
+            "jurisdiction": "Federal",
+            "title": "How does a federal tax refund offset work?",
+            "description": "Non-joint refund: Federal law requires a state to disburse a non-joint refund offset no later than 30 calendar days after receipt unless there ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'How does a federal tax refund offset work?', 'link': 'https://www.acf.hhs.gov/css/faq/how-does-federal-tax-refund-offset-program-work', 'snippet': 'Non-joint refund: Federal law requires a state to disburse a non-joint refund offset no later than 30 calendar days after receipt unless there ...', 'date': 'Jun 2, 2023', 'position': 8}"
+        },
+        {
+            "url": "https://www.acf.hhs.gov/sites/default/files/documents/ocse/employer_guide.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] A Guide to an Employer's Role in the Child Support Program",
+            "description": "Child support is the amount of money a parent is ordered to pay for the support of his or her child or children when that parent does not live with them.",
+            "relevance_score": 1.0,
+            "content": "{'title': \"[PDF] A Guide to an Employer's Role in the Child Support Program\", 'link': 'https://www.acf.hhs.gov/sites/default/files/documents/ocse/employer_guide.pdf', 'snippet': 'Child support is the amount of money a parent is ordered to pay for the support of his or her child or children when that parent does not live with them.', 'position': 9}"
+        },
+        {
+            "url": "https://www.acf.hhs.gov/css/resource/income-withholding-answers-to-employers-questions",
+            "jurisdiction": "Federal",
+            "title": "Income Withholding - Answers to Employers' Questions",
+            "description": "Employers withhold about 75 percent of all child support collections nationwide and frequently have questions about how to implement income withholding orders ...",
+            "relevance_score": 1.0,
+            "content": "{'title': \"Income Withholding - Answers to Employers' Questions\", 'link': 'https://www.acf.hhs.gov/css/resource/income-withholding-answers-to-employers-questions', 'snippet': 'Employers withhold about 75 percent of all child support collections nationwide and frequently have questions about how to implement income withholding orders ...', 'date': 'Jun 2, 2023', 'position': 10}"
+        },
+        {
+            "url": "https://www.sba.gov/business-guide/manage-your-business/pay-taxes",
+            "jurisdiction": "Federal",
+            "title": "Pay taxes | U.S. Small Business Administration",
+            "description": "Tax laws vary by location and business structure, so you'll need to check with state and local governments to know your business' tax ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Pay taxes | U.S. Small Business Administration', 'link': 'https://www.sba.gov/business-guide/manage-your-business/pay-taxes', 'snippet': \"Tax laws vary by location and business structure, so you'll need to check with state and local governments to know your business' tax ...\", 'date': '23 Jul 2025', 'position': 1}"
+        },
+        {
+            "url": "https://www.sba.gov/blog/7-tax-strategies-consider-when-selling-business",
+            "jurisdiction": "Federal",
+            "title": "7 Tax Strategies to Consider When Selling a Business",
+            "description": "7 Tax Strategies to Consider When Selling a Business \u00b7 1. Negotiate everything for the sale of a sole proprietorship \u00b7 2. Sell a partnership ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '7 Tax Strategies to Consider When Selling a Business', 'link': 'https://www.sba.gov/blog/7-tax-strategies-consider-when-selling-business', 'snippet': '7 Tax Strategies to Consider When Selling a Business \u00b7 1. Negotiate everything for the sale of a sole proprietorship \u00b7 2. Sell a partnership ...', 'date': '21 Feb 2020', 'position': 2}"
+        },
+        {
+            "url": "https://www.sba.gov/business-guide/manage-your-business/stay-legally-compliant",
+            "jurisdiction": "Federal",
+            "title": "Stay legally compliant | U.S. Small Business Administration",
+            "description": "Most businesses won't have federal requirements beyond paying federal taxes and complying with the Affordable Care Act. Make sure that you meet ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Stay legally compliant | U.S. Small Business Administration', 'link': 'https://www.sba.gov/business-guide/manage-your-business/stay-legally-compliant', 'snippet': \"Most businesses won't have federal requirements beyond paying federal taxes and complying with the Affordable Care Act. Make sure that you meet ...\", 'date': '29 May 2024', 'position': 3}"
+        },
+        {
+            "url": "https://www.sba.gov/business-guide/launch-your-business/choose-business-structure",
+            "jurisdiction": "Federal",
+            "title": "Choose a business structure | U.S. Small Business Administration",
+            "description": "Your business structure affects how much you pay in taxes, your ability to raise money, the paperwork you need to file, and your personal ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Choose a business structure | U.S. Small Business Administration', 'link': 'https://www.sba.gov/business-guide/launch-your-business/choose-business-structure', 'snippet': 'Your business structure affects how much you pay in taxes, your ability to raise money, the paperwork you need to file, and your personal ...', 'date': '7 Mar 2025', 'position': 4}"
+        },
+        {
+            "url": "https://www.sba.gov/business-guide/manage-your-business",
+            "jurisdiction": "Federal",
+            "title": "Manage your business | U.S. Small Business Administration",
+            "description": "Pay taxes. Your business will need to meet federal, state and local tax obligations to stay in good standing. Learn about your tax obligations ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Manage your business | U.S. Small Business Administration', 'link': 'https://www.sba.gov/business-guide/manage-your-business', 'snippet': 'Pay taxes. Your business will need to meet federal, state and local tax obligations to stay in good standing. Learn about your tax obligations ...', 'position': 5}"
+        },
+        {
+            "url": "https://www.sba.gov/event/75540",
+            "jurisdiction": "Federal",
+            "title": "Tax Savings Strategies for Small Businesses",
+            "description": "This workshop focuses on the Federal tax saving strategies that work best for small businesses, which are: \u00b7 Electing S-Corporation status with the IRS.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Tax Savings Strategies for Small Businesses', 'link': 'https://www.sba.gov/event/75540', 'snippet': 'This workshop focuses on the Federal tax saving strategies that work best for small businesses, which are: \u00b7 Electing S-Corporation status with the IRS.', 'position': 6}"
+        },
+        {
+            "url": "https://www.sba.gov/blog/tax-credits-your-business",
+            "jurisdiction": "Federal",
+            "title": "Tax Credits for Your Business | U.S. Small Business Administration",
+            "description": "There are a number of tax credits that may reward you for taking certain action to help your employees or your business operations.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Tax Credits for Your Business | U.S. Small Business Administration', 'link': 'https://www.sba.gov/blog/tax-credits-your-business', 'snippet': 'There are a number of tax credits that may reward you for taking certain action to help your employees or your business operations.', 'date': '19 Mar 2018', 'position': 7}"
+        },
+        {
+            "url": "https://www.sba.gov/blog/quarterly-taxes-basics",
+            "jurisdiction": "Federal",
+            "title": "Quarterly Taxes, The Basics | U.S. Small Business Administration",
+            "description": "Payments are split based on quarters, January-March, April-June, July-September, and October-December. Throughout each quarter maintain a file, electronically ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Quarterly Taxes, The Basics | U.S. Small Business Administration', 'link': 'https://www.sba.gov/blog/quarterly-taxes-basics', 'snippet': 'Payments are split based on quarters, January-March, April-June, July-September, and October-December. Throughout each quarter maintain a file, electronically ...', 'date': '28 Jul 2016', 'position': 8}"
+        },
+        {
+            "url": "https://www.sba.gov/blog/5-tax-rules-deducting-interest-payments",
+            "jurisdiction": "Federal",
+            "title": "5 Tax Rules for Deducting Interest Payments",
+            "description": "Small businesses are exempt from a new limitation on deducting business interest, which means such interest is fully deductible.",
+            "relevance_score": 1.0,
+            "content": "{'title': '5 Tax Rules for Deducting Interest Payments', 'link': 'https://www.sba.gov/blog/5-tax-rules-deducting-interest-payments', 'snippet': 'Small businesses are exempt from a new limitation on deducting business interest, which means such interest is fully deductible.', 'date': '20 Jun 2019', 'position': 9}"
+        },
+        {
+            "url": "https://www.sba.gov/business-guide/launch-your-business/pick-your-business-location",
+            "jurisdiction": "Federal",
+            "title": "Pick your business location | U.S. Small Business Administration",
+            "description": "Your business location determines the taxes, zoning laws, and regulations your business will be subject to. You'll need to make a strategic ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Pick your business location | U.S. Small Business Administration', 'link': 'https://www.sba.gov/business-guide/launch-your-business/pick-your-business-location', 'snippet': \"Your business location determines the taxes, zoning laws, and regulations your business will be subject to. You'll need to make a strategic ...\", 'date': '28 May 2024', 'position': 10}"
+        },
+        {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR82d0e96673e3cc4/section-1.511-3",
+            "jurisdiction": "Federal",
+            "title": "26 CFR 1.511-3 -- Provisions generally applicable to the tax ... - eCFR",
+            "description": "\u00a7 1.511-3 Provisions generally applicable to the tax on unrelated business income. (a) Assessment and collections. Since the taxes imposed by section 511 ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '26 CFR 1.511-3 -- Provisions generally applicable to the tax ... - eCFR', 'link': 'https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR82d0e96673e3cc4/section-1.511-3', 'snippet': '\u00a7 1.511-3 Provisions generally applicable to the tax on unrelated business income. (a) Assessment and collections. Since the taxes imposed by section 511 ...', 'position': 1}"
+        },
+        {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR82d0e96673e3cc4",
+            "jurisdiction": "Federal",
+            "title": "Taxation of Business Income of Certain Exempt Organizations - eCFR",
+            "description": "Section 511(a) imposes a tax upon the unrelated business taxable income of certain organizations otherwise exempt from Federal income tax.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Taxation of Business Income of Certain Exempt Organizations - eCFR', 'link': 'https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR82d0e96673e3cc4', 'snippet': 'Section 511(a) imposes a tax upon the unrelated business taxable income of certain organizations otherwise exempt from Federal income tax.', 'position': 2}"
+        },
+        {
+            "url": "https://www.ecfr.gov/current/title-13/chapter-I/part-123/subpart-D/section-123.300",
+            "jurisdiction": "Federal",
+            "title": "Is my business eligible to apply for an economic injury disaster loan?",
+            "description": "(a) If your business is located in a declared disaster area, and suffered substantial economic injury as a direct result of a declared disaster, ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Is my business eligible to apply for an economic injury disaster loan?', 'link': 'https://www.ecfr.gov/current/title-13/chapter-I/part-123/subpart-D/section-123.300', 'snippet': '(a) If your business is located in a declared disaster area, and suffered substantial economic injury as a direct result of a declared disaster, ...', 'position': 3}"
+        },
+        {
+            "url": "https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-K/subject-group-ECFR936d03acf15364e/section-404.1081",
+            "jurisdiction": "Federal",
+            "title": "General rules for figuring net earnings from self-employment. - eCFR",
+            "description": "(2) If you use the accrual method of accounting to figure your taxable income from a trade or business, you must use the same method in determining your net ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'General rules for figuring net earnings from self-employment. - eCFR', 'link': 'https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-K/subject-group-ECFR936d03acf15364e/section-404.1081', 'snippet': '(2) If you use the accrual method of accounting to figure your taxable income from a trade or business, you must use the same method in determining your net ...', 'position': 4}"
+        },
+        {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-F/part-303/section-303.1-4",
+            "jurisdiction": "Federal",
+            "title": "26 CFR 303.1-4 -- Computation of taxes. - eCFR",
+            "description": "The amount of income, employment, and excise taxes under the internal revenue laws will be computed for each taxable year or period during all or part of which ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '26 CFR 303.1-4 -- Computation of taxes. - eCFR', 'link': 'https://www.ecfr.gov/current/title-26/chapter-I/subchapter-F/part-303/section-303.1-4', 'snippet': 'The amount of income, employment, and excise taxes under the internal revenue laws will be computed for each taxable year or period during all or part of which ...', 'position': 5}"
+        },
+        {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-G/part-509/subpart-ECFRd60dfb9daabf2ae",
+            "jurisdiction": "Federal",
+            "title": "Subpart\u2014General Income Tax - eCFR",
+            "description": "(1)(a) A Swiss enterprise shall not be subject to taxation by the United States in respect of its industrial and commercial profits unless it is engaged in ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Subpart\u2014General Income Tax - eCFR', 'link': 'https://www.ecfr.gov/current/title-26/chapter-I/subchapter-G/part-509/subpart-ECFRd60dfb9daabf2ae', 'snippet': '(1)(a) A Swiss enterprise shall not be subject to taxation by the United States in respect of its industrial and commercial profits unless it is engaged in ...', 'position': 6}"
+        },
+        {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-C/part-31",
+            "jurisdiction": "Federal",
+            "title": "26 CFR Part 31 -- Employment Taxes and Collection of ... - eCFR",
+            "description": "(a) In general. The regulations in this part relate to the employment taxes imposed by subtitle C (chapters 21 to 25, inclusive) of the Internal Revenue ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '26 CFR Part 31 -- Employment Taxes and Collection of ... - eCFR', 'link': 'https://www.ecfr.gov/current/title-26/chapter-I/subchapter-C/part-31', 'snippet': '(a) In general. The regulations in this part relate to the employment taxes imposed by subtitle C (chapters 21 to 25, inclusive) of the Internal Revenue ...', 'position': 7}"
+        },
+        {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR300d60597412b89",
+            "jurisdiction": "Federal",
+            "title": "26 CFR Part 1 - Tax Preference Regulations - eCFR",
+            "description": "Accelerated depreciation on section 1245 property subject to a net lease and excess investment interest are not items of tax preference in the case of a ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '26 CFR Part 1 - Tax Preference Regulations - eCFR', 'link': 'https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR300d60597412b89', 'snippet': 'Accelerated depreciation on section 1245 property subject to a net lease and excess investment interest are not items of tax preference in the case of a ...', 'position': 8}"
+        },
+        {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-D/part-44/subpart-D/subject-group-ECFRc387d4599e59393/section-44.4422-1",
+            "jurisdiction": "Federal",
+            "title": "Doing business in violation of Federal or State law. - eCFR",
+            "description": "The special tax stamp is not a license or permit and affords no protection from prosecution for violation of any Federal or State law. See also section 4906.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Doing business in violation of Federal or State law. - eCFR', 'link': 'https://www.ecfr.gov/current/title-26/chapter-I/subchapter-D/part-44/subpart-D/subject-group-ECFRc387d4599e59393/section-44.4422-1', 'snippet': 'The special tax stamp is not a license or permit and affords no protection from prosecution for violation of any Federal or State law. See also section 4906.', 'position': 9}"
+        },
+        {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-F/part-301/subpart-ECFR5ffaf3310af6b61/section-301.7701-2",
+            "jurisdiction": "Federal",
+            "title": "26 CFR 301.7701-2 -- Business entities; definitions. - eCFR",
+            "description": "A business entity with two or more members is classified for federal tax purposes as either a corporation or a partnership.",
+            "relevance_score": 1.0,
+            "content": "{'title': '26 CFR 301.7701-2 -- Business entities; definitions. - eCFR', 'link': 'https://www.ecfr.gov/current/title-26/chapter-I/subchapter-F/part-301/subpart-ECFR5ffaf3310af6b61/section-301.7701-2', 'snippet': 'A business entity with two or more members is classified for federal tax purposes as either a corporation or a partnership.', 'position': 10}"
+        },
+        {
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-107jhrg76195/html/CHRG-107jhrg76195.htm",
+            "jurisdiction": "Federal",
+            "title": "- A TAX AGENDA FOR SMALL BUSINESS - GovInfo",
+            "description": "Beyond the President's tax cut, there is still more work to be done for small business tax relief. For my part, I have introduced a Small Business Works Act ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '- A TAX AGENDA FOR SMALL BUSINESS - GovInfo', 'link': 'https://www.govinfo.gov/content/pkg/CHRG-107jhrg76195/html/CHRG-107jhrg76195.htm', 'snippet': \"Beyond the President's tax cut, there is still more work to be done for small business tax relief. For my part, I have introduced a Small Business Works Act ...\", 'position': 1}"
+        },
+        {
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-108hhrg92622/html/CHRG-108hhrg92622.htm",
+            "jurisdiction": "Federal",
+            "title": "ASSISTING SMALL BUSINESSES THROUGH THE TAX CODE",
+            "description": "- ASSISTING SMALL BUSINESSES THROUGH THE TAX CODE: RECENT GAINS AND WHAT REMAINS TO BE DONE.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'ASSISTING SMALL BUSINESSES THROUGH THE TAX CODE', 'link': 'https://www.govinfo.gov/content/pkg/CHRG-108hhrg92622/html/CHRG-108hhrg92622.htm', 'snippet': '- ASSISTING SMALL BUSINESSES THROUGH THE TAX CODE: RECENT GAINS AND WHAT REMAINS TO BE DONE.', 'position': 2}"
+        },
+        {
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-112shrg82334/html/CHRG-112shrg82334.htm",
+            "jurisdiction": "Federal",
+            "title": "- TAX REFORM: EXAMINING THE TAXATION OF BUSINESS ...",
+            "description": "[Senate Hearing 112-805] [From the U.S. Government Publishing Office] S. Hrg. 112-805 TAX REFORM: EXAMINING THE TAXATION OF BUSINESS ENTITIES ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '- TAX REFORM: EXAMINING THE TAXATION OF BUSINESS ...', 'link': 'https://www.govinfo.gov/content/pkg/CHRG-112shrg82334/html/CHRG-112shrg82334.htm', 'snippet': '[Senate Hearing 112-805] [From the U.S. Government Publishing Office] S. Hrg. 112-805 TAX REFORM: EXAMINING THE TAXATION OF BUSINESS ENTITIES ...', 'position': 3}"
+        },
+        {
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-114hhrg97831/html/CHRG-114hhrg97831.htm",
+            "jurisdiction": "Federal",
+            "title": "- TAX EXTENDERS AND SMALL BUSINESSES AS EMPLOYERS ...",
+            "description": "Most small businesses find it difficult to stay current on tax laws because so many tax ... I started my first business when I was 8 years old, selling candy bars ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '- TAX EXTENDERS AND SMALL BUSINESSES AS EMPLOYERS ...', 'link': 'https://www.govinfo.gov/content/pkg/CHRG-114hhrg97831/html/CHRG-114hhrg97831.htm', 'snippet': 'Most small businesses find it difficult to stay current on tax laws because so many tax ... I started my first business when I was 8 years old, selling candy bars ...', 'position': 4}"
+        },
+        {
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-112hhrg66457/html/CHRG-112hhrg66457.htm",
+            "jurisdiction": "Federal",
+            "title": "HOW TAX COMPLEXITY HINDERS SMALL BUSINESS - GovInfo",
+            "description": "- HOW TAX COMPLEXITY HINDERS SMALL BUSINESS: THE IMPACT ON JOB CREATION AND ECONOMIC GROWTH.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'HOW TAX COMPLEXITY HINDERS SMALL BUSINESS - GovInfo', 'link': 'https://www.govinfo.gov/content/pkg/CHRG-112hhrg66457/html/CHRG-112hhrg66457.htm', 'snippet': '- HOW TAX COMPLEXITY HINDERS SMALL BUSINESS: THE IMPACT ON JOB CREATION AND ECONOMIC GROWTH.', 'position': 5}"
+        },
+        {
+            "url": "https://www.govinfo.gov/content/pkg/GOVPUB-S-PURL-gpo218977/pdf/GOVPUB-S-PURL-gpo218977.pdf",
+            "jurisdiction": "Federal",
+            "title": "[PDF] Turkey FATCA Agreement - U.S. Department of State",
+            "description": "The Government of the United States is committed to further improve transparency and enhance the exchange relationship with Turkey by pursuing the adoption of ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Turkey FATCA Agreement - U.S. Department of State', 'link': 'https://www.govinfo.gov/content/pkg/GOVPUB-S-PURL-gpo218977/pdf/GOVPUB-S-PURL-gpo218977.pdf', 'snippet': 'The Government of the United States is committed to further improve transparency and enhance the exchange relationship with Turkey by pursuing the adoption of ...', 'position': 6}"
+        },
+        {
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-115hhrg27040/html/CHRG-115hhrg27040.htm",
+            "jurisdiction": "Federal",
+            "title": "- SMALL BUSINESS TAX REFORM: MODERNIZING THE CODE ...",
+            "description": "- SMALL BUSINESS TAX REFORM: MODERNIZING THE CODE FOR THE NATION'S JOB CREATORS.",
+            "relevance_score": 1.0,
+            "content": "{'title': '- SMALL BUSINESS TAX REFORM: MODERNIZING THE CODE ...', 'link': 'https://www.govinfo.gov/content/pkg/CHRG-115hhrg27040/html/CHRG-115hhrg27040.htm', 'snippet': \"- SMALL BUSINESS TAX REFORM: MODERNIZING THE CODE FOR THE NATION'S JOB CREATORS.\", 'position': 7}"
+        },
+        {
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-113hhrg87461/html/CHRG-113hhrg87461.htm",
+            "jurisdiction": "Federal",
+            "title": "- THE BIGGEST TAX PROBLEMS FOR SMALL BUSINESSES",
+            "description": "My proposal is that all business income be taxed under a single business tax rate schedule, no matter whether it is earned by a sole proprietor, a ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '- THE BIGGEST TAX PROBLEMS FOR SMALL BUSINESSES', 'link': 'https://www.govinfo.gov/content/pkg/CHRG-113hhrg87461/html/CHRG-113hhrg87461.htm', 'snippet': 'My proposal is that all business income be taxed under a single business tax rate schedule, no matter whether it is earned by a sole proprietor, a ...', 'position': 8}"
+        },
+        {
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-114hhrg95580/html/CHRG-114hhrg95580.htm",
+            "jurisdiction": "Federal",
+            "title": "- HOW TAX COMPLIANCE OBLIGATIONS HINDER SMALL ...",
+            "description": "Unfortunately, compliance with federal tax laws can act as a road block in the growth of small business. Unlike large multi-national corporations, the time ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '- HOW TAX COMPLIANCE OBLIGATIONS HINDER SMALL ...', 'link': 'https://www.govinfo.gov/content/pkg/CHRG-114hhrg95580/html/CHRG-114hhrg95580.htm', 'snippet': 'Unfortunately, compliance with federal tax laws can act as a road block in the growth of small business. Unlike large multi-national corporations, the time ...', 'position': 9}"
+        },
+        {
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-113hhrg81937/html/CHRG-113hhrg81937.htm",
+            "jurisdiction": "Federal",
+            "title": "THE INTERNAL REVENUE SERVICE AND SMALL BUSINESSES",
+            "description": "While the vast majority of small business taxpayers comply with tax laws, it seems they may be under increased scrutiny by the IRS, all because a few bad actors ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'THE INTERNAL REVENUE SERVICE AND SMALL BUSINESSES', 'link': 'https://www.govinfo.gov/content/pkg/CHRG-113hhrg81937/html/CHRG-113hhrg81937.htm', 'snippet': 'While the vast majority of small business taxpayers comply with tax laws, it seems they may be under increased scrutiny by the IRS, all because a few bad actors ...', 'position': 10}"
+        }
+    ],
+    "State Laws": [
+        {
+            "url": "https://dor.mo.gov/taxation/business/",
+            "jurisdiction": "State",
+            "title": "Business Tax - Missouri Department of Revenue",
+            "description": "File and pay business taxes online. E-file information and due dates for withholding tax. E-file information and due dates for sales tax.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Business Tax - Missouri Department of Revenue', 'link': 'https://dor.mo.gov/taxation/business/', 'snippet': 'File and pay business taxes online. E-file information and due dates for withholding tax. E-file information and due dates for sales tax.', 'sitelinks': [{'title': 'Business Tax Registration', 'link': 'https://dor.mo.gov/taxation/business/registration/requirements.html'}, {'title': 'Online Business Registration', 'link': 'https://dor.mo.gov/register-business/'}, {'title': 'Sales/Use Tax', 'link': 'https://dor.mo.gov/taxation/business/tax-types/sales-use/'}, {'title': 'FAQs', 'link': 'https://dor.mo.gov/faq/taxation/business/'}], 'position': 1}"
+        },
+        {
+            "url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/",
+            "jurisdiction": "State",
+            "title": "Sales/Use Tax - Missouri Department of Revenue - MO.gov",
+            "description": "Persons making retail sales collect the sales tax from the purchaser and remit the tax to the Department of Revenue. The state sales tax rate is 4.225%.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Sales/Use Tax - Missouri Department of Revenue - MO.gov', 'link': 'https://dor.mo.gov/taxation/business/tax-types/sales-use/', 'snippet': 'Persons making retail sales collect the sales tax from the purchaser and remit the tax to the Department of Revenue. The state sales tax rate is 4.225%.', 'position': 2}"
+        },
+        {
+            "url": "https://dor.mo.gov/taxation/business/registration/small-business/",
+            "jurisdiction": "State",
+            "title": "Small Business Information - Missouri Department of Revenue",
+            "description": "This page is designed to assist small businesses in complying with Missouri tax requirements. This page offers: Information to research the tax requirements for ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Small Business Information - Missouri Department of Revenue', 'link': 'https://dor.mo.gov/taxation/business/registration/small-business/', 'snippet': 'This page is designed to assist small businesses in complying with Missouri tax requirements. This page offers: Information to research the tax requirements for ...', 'position': 3}"
+        },
+        {
+            "url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/exemptions.php?tab1=&clas=1&sub_class=",
+            "jurisdiction": "State",
+            "title": "Missouri Sales and Use Tax Exemptions and Exclusions From Tax",
+            "description": "Generally, Missouri taxes all retail sales of tangible personal property and certain taxable services. However, there are a number of exemptions and ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Missouri Sales and Use Tax Exemptions and Exclusions From Tax', 'link': 'https://dor.mo.gov/taxation/business/tax-types/sales-use/exemptions.php?tab1=&clas=1&sub_class=', 'snippet': 'Generally, Missouri taxes all retail sales of tangible personal property and certain taxable services. However, there are a number of exemptions and ...', 'position': 4}"
+        },
+        {
+            "url": "https://dor.mo.gov/taxation/business/registration/small-business/types.html",
+            "jurisdiction": "State",
+            "title": "Small Business Website - Missouri Department of Revenue",
+            "description": "Missouri law allows individuals to operate as a Sole Proprietorship. Income and expenses are reported on the proprietor's federal individual income tax return ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Small Business Website - Missouri Department of Revenue', 'link': 'https://dor.mo.gov/taxation/business/registration/small-business/types.html', 'snippet': \"Missouri law allows individuals to operate as a Sole Proprietorship. Income and expenses are reported on the proprietor's federal individual income tax return ...\", 'position': 5}"
+        },
+        {
+            "url": "https://dor.mo.gov/taxation/business/registration/requirements.html",
+            "jurisdiction": "State",
+            "title": "Business Tax Registration - Missouri Department of Revenue - MO.gov",
+            "description": "A business must obtain a sales tax license by registering with the Department of Revenue if it's making sales of tangible personal property and taxable ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Business Tax Registration - Missouri Department of Revenue - MO.gov', 'link': 'https://dor.mo.gov/taxation/business/registration/requirements.html', 'snippet': \"A business must obtain a sales tax license by registering with the Department of Revenue if it's making sales of tangible personal property and taxable ...\", 'position': 6}"
+        },
+        {
+            "url": "https://dor.mo.gov/forms/Taxpayer%20Guide.pdf",
+            "jurisdiction": "State",
+            "title": "[PDF] taxpayer Guide | Missouri Department of Revenue - MO.gov",
+            "description": "This taxpayer's guide will provide you with basic information about taxes in Missouri. Every citizen pays taxes, so it's important for.",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] taxpayer Guide | Missouri Department of Revenue - MO.gov', 'link': 'https://dor.mo.gov/forms/Taxpayer%20Guide.pdf', 'snippet': \"This taxpayer's guide will provide you with basic information about taxes in Missouri. Every citizen pays taxes, so it's important for.\", 'position': 7}"
+        },
+        {
+            "url": "https://mytax.mo.gov/rptp/portal/home/business/no-tax-due-selection",
+            "jurisdiction": "State",
+            "title": "No Tax Due - MyTax Missouri - MO.gov",
+            "description": "State law, section 144.083, RSMo, requires businesses to demonstrate they are compliant with state sales and withholding tax laws before they can receive or ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'No Tax Due - MyTax Missouri - MO.gov', 'link': 'https://mytax.mo.gov/rptp/portal/home/business/no-tax-due-selection', 'snippet': 'State law, section 144.083, RSMo, requires businesses to demonstrate they are compliant with state sales and withholding tax laws before they can receive or ...', 'position': 8}"
+        },
+        {
+            "url": "https://dor.mo.gov/faq/taxation/business/corporation-income.html",
+            "jurisdiction": "State",
+            "title": "FAQs - Corporation Income Tax - Missouri Department of Revenue",
+            "description": "Missouri corporate income tax is imposed upon Missouri taxable income. Missouri taxable income shall be so much of a corporation's federal taxable income for ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'FAQs - Corporation Income Tax - Missouri Department of Revenue', 'link': 'https://dor.mo.gov/faq/taxation/business/corporation-income.html', 'snippet': \"Missouri corporate income tax is imposed upon Missouri taxable income. Missouri taxable income shall be so much of a corporation's federal taxable income for ...\", 'position': 9}"
+        },
+        {
+            "url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/hb600.html",
+            "jurisdiction": "State",
+            "title": "Missouri State Vendor Sales/Use Tax Compliance",
+            "description": "Vendors Contracting with the State of Missouri Must Collect and Remit Sales/Use Tax. Any vendor and its affiliates selling tangible personal property to ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Missouri State Vendor Sales/Use Tax Compliance', 'link': 'https://dor.mo.gov/taxation/business/tax-types/sales-use/hb600.html', 'snippet': 'Vendors Contracting with the State of Missouri Must Collect and Remit Sales/Use Tax. Any vendor and its affiliates selling tangible personal property to ...', 'position': 10}"
+        }
+    ],
+    "Local Laws": [
+        {
+            "url": "https://dor.mo.gov/taxation/business/",
+            "jurisdiction": "Local",
+            "title": "Business Tax - Missouri Department of Revenue",
+            "description": "File and pay business taxes online. E-file information and due dates for withholding tax. E-file information and due dates for sales tax.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Business Tax - Missouri Department of Revenue', 'link': 'https://dor.mo.gov/taxation/business/', 'snippet': 'File and pay business taxes online. E-file information and due dates for withholding tax. E-file information and due dates for sales tax.', 'attributes': {'Missing': 'Columbia | Show results with:Columbia'}, 'position': 1}"
+        },
+        {
+            "url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/",
+            "jurisdiction": "Local",
+            "title": "Sales/Use Tax - Missouri Department of Revenue - MO.gov",
+            "description": "Chapter 144, RSMo: The state's sales tax is imposed on the purchase price of tangible personal property or taxable service sold at retail.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Sales/Use Tax - Missouri Department of Revenue - MO.gov', 'link': 'https://dor.mo.gov/taxation/business/tax-types/sales-use/', 'snippet': \"Chapter 144, RSMo: The state's sales tax is imposed on the purchase price of tangible personal property or taxable service sold at retail.\", 'position': 2}"
+        },
+        {
+            "url": "https://dor.mo.gov/forms/4890.pdf",
+            "jurisdiction": "Local",
+            "title": "[PDF] Local Government Tax Guide - Missouri Department of Revenue",
+            "description": "SALES TAX. Sales tax is imposed pursuant to Chapter 144, RSMo, on the purchase price of tangible personal property and certain taxable services sold at ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Local Government Tax Guide - Missouri Department of Revenue', 'link': 'https://dor.mo.gov/forms/4890.pdf', 'snippet': 'SALES TAX. Sales tax is imposed pursuant to Chapter 144, RSMo, on the purchase price of tangible personal property and certain taxable services sold at ...', 'position': 3}"
+        },
+        {
+            "url": "https://dor.mo.gov/taxation/business/registration/small-business/",
+            "jurisdiction": "Local",
+            "title": "Small Business Information - Missouri Department of Revenue",
+            "description": "This page is designed to assist small businesses in complying with Missouri tax requirements. This page offers: Information to research the tax requirements for ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Small Business Information - Missouri Department of Revenue', 'link': 'https://dor.mo.gov/taxation/business/registration/small-business/', 'snippet': 'This page is designed to assist small businesses in complying with Missouri tax requirements. This page offers: Information to research the tax requirements for ...', 'attributes': {'Missing': 'Columbia | Show results with:Columbia'}, 'position': 4}"
+        },
+        {
+            "url": "https://www.como.gov/finance/business-licenses/",
+            "jurisdiction": "Local",
+            "title": "Business Licenses - City of Columbia Missouri - CoMo.gov",
+            "description": "Authority for business licensing (Chapter 13), liquor licensing (Chapter 4), vehicles for hire (Chapter 28) and taxation (Chapter 26) is granted by the City of ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Business Licenses - City of Columbia Missouri - CoMo.gov', 'link': 'https://www.como.gov/finance/business-licenses/', 'snippet': 'Authority for business licensing (Chapter 13), liquor licensing (Chapter 4), vehicles for hire (Chapter 28) and taxation (Chapter 26) is granted by the City of ...', 'sitelinks': [{'title': 'Temporary Business License', 'link': 'https://www.como.gov/finance/business-licenses/temporary-business-license/'}, {'title': 'Animals Tags & Pet Licenses', 'link': 'https://www.como.gov/finance/business-licenses/animals-tags/'}, {'title': 'Garage Sales', 'link': 'https://www.como.gov/finance/business-licenses/garage-sales/'}], 'position': 5}"
+        },
+        {
+            "url": "https://dor.mo.gov/forms/MO-1120%20Instructions_2021.pdf",
+            "jurisdiction": "Local",
+            "title": "[PDF] MO-1120 Instructions - Missouri Department of Revenue",
+            "description": "The tax on corporations will not apply to: \u2022 A corporation, which by reason of its purposes and activities is exempt from federal income tax. The preceding ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] MO-1120 Instructions - Missouri Department of Revenue', 'link': 'https://dor.mo.gov/forms/MO-1120%20Instructions_2021.pdf', 'snippet': 'The tax on corporations will not apply to: \u2022 A corporation, which by reason of its purposes and activities is exempt from federal income tax. The preceding ...', 'position': 6}"
+        },
+        {
+            "url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/integrated-tax-system.html",
+            "jurisdiction": "Local",
+            "title": "All Sales and Use Tax Filers - Missouri Department of Revenue",
+            "description": "Missouri and some local tax statutes impose special tax rates for the sale of certain items, such as food and text books. All item taxes will be listed on a ...",
+            "relevance_score": 1.0,
+            "content": "{'title': 'All Sales and Use Tax Filers - Missouri Department of Revenue', 'link': 'https://dor.mo.gov/taxation/business/tax-types/sales-use/integrated-tax-system.html', 'snippet': 'Missouri and some local tax statutes impose special tax rates for the sale of certain items, such as food and text books. All item taxes will be listed on a ...', 'attributes': {'Missing': 'Columbia | Show results with:Columbia'}, 'position': 7}"
+        },
+        {
+            "url": "https://dor.mo.gov/forms/MO-1120S%20Instructions_2016.pdf",
+            "jurisdiction": "Local",
+            "title": "[PDF] Form MO-1120S Instructions - Missouri Department of Revenue",
+            "description": "Who Must File Form MO-1120S. S Corporation Income Tax: Every S corporation must file Form. MO-1120S if they file Federal Form 1120S and the S corporation ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Form MO-1120S Instructions - Missouri Department of Revenue', 'link': 'https://dor.mo.gov/forms/MO-1120S%20Instructions_2016.pdf', 'snippet': 'Who Must File Form MO-1120S. S Corporation Income Tax: Every S corporation must file Form. MO-1120S if they file Federal Form 1120S and the S corporation ...', 'position': 8}"
+        },
+        {
+            "url": "https://dor.mo.gov/forms/MO-1040%20Instructions_2024.pdf",
+            "jurisdiction": "Local",
+            "title": "[PDF] Form 1040 Book - Individual Income Tax Long Form & Instructions",
+            "description": "You must file Form MO-1040 if at least one of the following applies: 1. You or your spouse claim or file: a. A pension, social security/social ...",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] Form 1040 Book - Individual Income Tax Long Form & Instructions', 'link': 'https://dor.mo.gov/forms/MO-1040%20Instructions_2024.pdf', 'snippet': 'You must file Form MO-1040 if at least one of the following applies: 1. You or your spouse claim or file: a. A pension, social security/social ...', 'date': '31 Dec 2024', 'position': 9}"
+        },
+        {
+            "url": "https://dor.mo.gov/forms/MO-1120S_Instructions_2010.pdf",
+            "jurisdiction": "Local",
+            "title": "[PDF] MO-1120S S Corporation Tax Return Instructions",
+            "description": "Who muSt File Form mo-1120S. Corporation FranChiSe tax: Every S corporation must determine if its assets or apportioned assets are greater than $10,000,000.",
+            "relevance_score": 1.0,
+            "content": "{'title': '[PDF] MO-1120S S Corporation Tax Return Instructions', 'link': 'https://dor.mo.gov/forms/MO-1120S_Instructions_2010.pdf', 'snippet': 'Who muSt File Form mo-1120S. Corporation FranChiSe tax: Every S corporation must determine if its assets or apportioned assets are greater than $10,000,000.', 'position': 10}"
+        }
+    ]
+}
