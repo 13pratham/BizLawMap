@@ -12,6 +12,7 @@ import re
 # from playwright.async_api import async_playwright
 import time
 import os
+from dotenv import load_dotenv
 
 from .models import LegalSource
 from .config import AppConfig
@@ -20,8 +21,9 @@ class SearchService:
     """Service for searching legal information using multiple tools"""
     
     def __init__(self):
+        load_dotenv()
         self.config = AppConfig()
-        os.environ["SERPER_API_KEY"] = os.getenv("Serper_API_Key", "bb4475e3408c9bb8d9d2e7ba1342d32b2e5443a2")
+        os.environ["SERPER_API_KEY"] = os.getenv("SERPER_API_KEY")
         self.search = GoogleSerperAPIWrapper()
         self._session = None
     

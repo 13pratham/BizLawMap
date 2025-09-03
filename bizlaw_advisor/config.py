@@ -4,6 +4,7 @@ Configuration settings for the BizLaw Advisor application
 import os
 from dataclasses import dataclass
 from typing import List
+from dotenv import load_dotenv
 
 @dataclass
 class SourceConfig:
@@ -48,6 +49,7 @@ class LawCategories:
 class AppConfig:
     """Main application configuration"""
     # API Configuration
+    load_dotenv()
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyClEeF5cKvSEdcDWPVXQ79d-gqDQXs0fVc")
     MODEL_NAME = "gemini-2.5-flash"
     
