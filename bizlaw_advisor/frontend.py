@@ -91,19 +91,26 @@ class StreamlitApp:
             area_of_law = st.selectbox(
                 "Area of Law",
                 ['Select Area of Law from dropdown'] + self.config.LAW_CATEGORIES.CATEGORIES,
+                help="Select the website you need information from"
+            )
+            area_of_law = None if area_of_law == 'Select Area of Law from dropdown' else area_of_law
+            statute_of_law = st.selectbox(
+                "Statute of Law",
+                ['Select Statute of Law from dropdown'] + self.config.SOURCES.FEDERAL_SOURCES,
                 help="Select the legal area you need information about"
             )
             
             # Submit with validation
             if st.button("Submit", type="primary"):
-                if not all([city, state, business_type, area_of_law]):
+                if not all([city, state, business_type, area_of_law, statute_of_law]):
                     st.error("Please fill in all fields")
                 else:
                     st.session_state.business_context = BusinessContext(
                         city=city,
                         state=state,
                         business_type=business_type,
-                        area_of_law=area_of_law
+                        area_of_law=area_of_law,
+                        statute_of_law=statute_of_law if statute_of_law != 'Select Statute of Law from dropdown' else None
                     )
                     # Clear chat history when context changes
                     st.session_state.chat_history = []
@@ -128,25 +135,25 @@ class StreamlitApp:
             st.write(f"⚖️ Area of Law: {context.area_of_law}")
 
         # Display rules applicable to the business
-        with st.expander("Rules Applicable to the Business", expanded=False):
-            context = st.session_state.business_context
-            with open(self.applicable_laws_path / 'applicable_laws.txt', "r") as file:
-                response = file.read()
-                response = eval(response)
-            # message_content = {
-            #         "summary": response.summary,
-            #         "key_points": response.key_points,
-            #         "jurisdiction_analysis": response.jurisdiction_analysis,
-            #         "compliance_steps": response.compliance_steps,
-            #         "overlapping_regulations": response.overlapping_regulations,
-            #         "sources": response.sources,
-            #         "response_time": response.response_time
-            #     }
-            # self._display_structured_message(message_content)
-            st.write(f"Summary: {response.summary}")
-            for source in response.sources[:10]:
-                st.write(f"• {source}")
-            st.write(f"Response Time: {response.response_time}")
+        st.session_state.chat_history.append({"role": "user", "content": "Below are the Rules Applicable to your Business."})
+        context = st.session_state.business_context
+        with open(self.applicable_laws_path / 'applicable_laws.txt', "r") as file:
+            response = file.read()
+            response = eval(response)
+        message_content = {
+            "summary": response.summary,
+            "key_points": response.key_points,
+            "jurisdiction_analysis": response.jurisdiction_analysis,
+            "compliance_steps": response.compliance_steps,
+            "overlapping_regulations": response.overlapping_regulations,
+            "sources": response.sources,
+            "response_time": response.response_time
+        }
+        
+        st.session_state.chat_history.append({
+            "role": "assistant",
+            "content": message_content
+        })
         
         # Display chat history
         for message in st.session_state.chat_history:
@@ -195,9 +202,9 @@ class StreamlitApp:
         try:
             # Parallel search for laws
             federal_laws, state_laws, local_laws = await asyncio.gather(
-                self.search_service.get_federal_laws(query),
-                self.search_service.get_state_laws(query, context.state),
-                self.search_service.get_local_laws(query, context.city, context.state)
+                self.search_service.get_federal_laws(query, context.city, context.state, context.business_type, context.area_of_law, context.statute_of_law),
+                self.search_service.get_state_laws(query, context.city, context.state, context.business_type, context.area_of_law),
+                self.search_service.get_local_laws(query, context.city, context.state, context.business_type, context.area_of_law)
             )
             with open(self.sources_path / "identified_sources.json", "w") as file:
                 json.dump({

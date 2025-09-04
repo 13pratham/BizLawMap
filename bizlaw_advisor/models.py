@@ -11,6 +11,7 @@ class BusinessContext:
     state: str
     business_type: str
     area_of_law: str
+    statute_of_law: Optional[str] = None  # Optional statute reference
     
     def to_dict(self) -> Dict:
         """Convert to dictionary"""
@@ -18,7 +19,8 @@ class BusinessContext:
             "city": self.city,
             "state": self.state,
             "business_type": self.business_type,
-            "area_of_law": self.area_of_law
+            "area_of_law": self.area_of_law,
+            "statute_of_law": self.statute_of_law
         }
 
 @dataclass

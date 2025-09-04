@@ -109,25 +109,31 @@ class SearchService:
             
         return sources
 
-    async def get_federal_laws(self, query: str) -> List[LegalSource]:
+    async def get_federal_laws(self, query: str, city: str, state: str, business_type: str, area_of_law: str, statute_of_law: str = None) -> List[LegalSource]:
         """Search for federal laws"""
-        federal_sources = []
+        # federal_sources = []
         
         # Search each federal domain
-        for domain in self.config.SOURCES.FEDERAL_SOURCES:
-            results = await self.search_legal_sources(
-                f"{query} site:{domain}",
-                jurisdiction="Federal"
-            )
-            federal_sources.extend(results)
-            
-        return federal_sources
+        if statute_of_law:
+            query = f"{query}. Look for Federal Level laws in {area_of_law} for {business_type} business in {city}, {state} site reference: {statute_of_law}"
+            return await self.search_legal_sources(query, jurisdiction="Federal")
+        else:
+            query = f"{query}. Look for Federal Level laws in {area_of_law} for {business_type} business in {city}, {state} site domain: .gov"
+            return await self.search_legal_sources(query, jurisdiction="Federal")
+            # for domain in self.config.SOURCES.FEDERAL_SOURCES:
+            #     results = await self.search_legal_sources(
+            #         f"{query}. Look for {area_of_law} laws for {business_type} business in {city}, {state} site reference: {domain}",
+            #         jurisdiction="Federal"
+            #     )
+            #     federal_sources.extend(results)
+            # return federal_sources
 
-    async def get_state_laws(self, query: str, state: str) -> List[LegalSource]:
+    async def get_state_laws(self, query: str, city: str, state: str, business_type: str, area_of_law: str) -> List[LegalSource]:
         """Search for state laws"""
-        return await self.search_legal_sources(query, jurisdiction="State", state=state)
+        query = f"{query}. Look for State Level laws in {area_of_law} for {business_type} business in {city}, {state} site domain: .gov"
+        return await self.search_legal_sources(query, jurisdiction="State")
 
-    async def get_local_laws(self, query: str, city: str, state: str) -> List[LegalSource]:
+    async def get_local_laws(self, query: str, city: str, state: str, business_type: str, area_of_law: str) -> List[LegalSource]:
         """Search for local laws"""
-        local_query = f"{query} {city} {state}"
-        return await self.search_legal_sources(local_query, jurisdiction="Local", state=state)
+        query = f"{query}. Look for Local Level laws in {area_of_law} for {business_type} business in {city}, {state} site domain: .gov"
+        return await self.search_legal_sources(query, jurisdiction="Local")
