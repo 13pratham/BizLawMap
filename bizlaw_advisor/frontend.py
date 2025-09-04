@@ -135,25 +135,26 @@ class StreamlitApp:
             st.write(f"⚖️ Area of Law: {context.area_of_law}")
 
         # Display rules applicable to the business
-        st.session_state.chat_history.append({"role": "user", "content": "Below are the Rules Applicable to your Business."})
-        context = st.session_state.business_context
-        with open(self.applicable_laws_path / 'applicable_laws.txt', "r") as file:
-            response = file.read()
-            response = eval(response)
-        message_content = {
-            "summary": response.summary,
-            "key_points": response.key_points,
-            "jurisdiction_analysis": response.jurisdiction_analysis,
-            "compliance_steps": response.compliance_steps,
-            "overlapping_regulations": response.overlapping_regulations,
-            "sources": response.sources,
-            "response_time": response.response_time
-        }
+        if len(st.session_state.chat_history) == 0:
+            st.session_state.chat_history.append({"role": "user", "content": "Below are the Rules Applicable to your Business."})
+            context = st.session_state.business_context
+            with open(self.applicable_laws_path / 'applicable_laws.txt', "r") as file:
+                response = file.read()
+                response = eval(response)
+            message_content = {
+                "summary": response.summary,
+                "key_points": response.key_points,
+                "jurisdiction_analysis": response.jurisdiction_analysis,
+                "compliance_steps": response.compliance_steps,
+                "overlapping_regulations": response.overlapping_regulations,
+                "sources": response.sources,
+                "response_time": response.response_time
+            }
         
-        st.session_state.chat_history.append({
-            "role": "assistant",
-            "content": message_content
-        })
+            st.session_state.chat_history.append({
+                "role": "assistant",
+                "content": message_content
+            })
         
         # Display chat history
         for message in st.session_state.chat_history:
@@ -198,7 +199,17 @@ class StreamlitApp:
         await self.initialize_services()
         
         context = st.session_state.business_context
-        
+        if len(st.session_state.chat_history) > 2:
+            new_context = self.llm_service.determine_context(query)
+            print("Old Context:", context)
+            print("New Context:", new_context)
+            context.area_of_law = new_context.area_of_law or context.area_of_law
+            context.business_type = new_context.business_type or context.business_type
+            context.city = new_context.city or context.city
+            context.state = new_context.state or context.state
+            context.statute_of_law = None
+            st.session_state.business_context = context
+            print("Updated Context:", context)
         try:
             # Parallel search for laws
             federal_laws, state_laws, local_laws = await asyncio.gather(
@@ -223,7 +234,7 @@ class StreamlitApp:
             # Ensure we clean up the session
             if self.search_service:
                 await self.search_service.close()
-    
+
     def _display_structured_message(self, content: Dict):
         """Display a structured message with enhanced formatting"""
         # Main summary

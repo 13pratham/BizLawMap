@@ -1,152 +1,176 @@
 {
     "Federal Laws": [
         {
+            "url": "https://www.epa.gov/home",
+            "jurisdiction": "Federal",
+            "title": "U.S. Environmental Protection Agency | US EPA",
+            "description": "Website of the U.S. Environmental Protection Agency (EPA). EPA's mission is to protect human health and the environment.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'U.S. Environmental Protection Agency | US EPA', 'link': 'https://www.epa.gov/home', 'snippet': \"Website of the U.S. Environmental Protection Agency (EPA). EPA's mission is to protect human health and the environment.\", 'attributes': {'Missing': 'Manager Missouri domain:'}, 'position': 1}"
+        },
+        {
             "url": "https://www.gsa.gov/",
             "jurisdiction": "Federal",
             "title": "GSA: Home",
             "description": "Our mission is to deliver the best customer experience and value in real estate, acquisition, and technology services to government and the American people.",
             "relevance_score": 1.0,
-            "content": "{'title': 'GSA: Home', 'link': 'https://www.gsa.gov/', 'snippet': 'Our mission is to deliver the best customer experience and value in real estate, acquisition, and technology services to government and the American people.', 'attributes': {'Missing': 'Summary Louis, domain:'}, 'position': 1}"
+            "content": "{'title': 'GSA: Home', 'link': 'https://www.gsa.gov/', 'snippet': 'Our mission is to deliver the best customer experience and value in real estate, acquisition, and technology services to government and the American people.', 'attributes': {'Missing': 'Louis, domain:'}, 'position': 2}"
         },
         {
-            "url": "https://house.mo.gov/billlist.aspx",
+            "url": "https://www.gsa.gov/system/files/FY_2022_FRPP_DATA_DICTIONARY_V1_508corr.pdf",
             "jurisdiction": "Federal",
-            "title": "Bill List - Missouri House of Representatives",
-            "description": "103rd General Assembly, 1st Regular Session. Current House Bills ; 0825H.01I - Prohibits counties from charging interest on entire personal property tax ...",
+            "title": "[PDF] 2022 guidance for real property inventory reporting - GSA",
+            "description": "To further improve the management of federal real property, the Federal Property Management Reform Act of 2016 (FPMRA) and the. Federal ...",
             "relevance_score": 1.0,
-            "content": "{'title': 'Bill List - Missouri House of Representatives', 'link': 'https://house.mo.gov/billlist.aspx', 'snippet': '103rd General Assembly, 1st Regular Session. Current House Bills ; 0825H.01I - Prohibits counties from charging interest on entire personal property tax ...', 'position': 2}"
+            "content": "{'title': '[PDF] 2022 guidance for real property inventory reporting - GSA', 'link': 'https://www.gsa.gov/system/files/FY_2022_FRPP_DATA_DICTIONARY_V1_508corr.pdf', 'snippet': 'To further improve the management of federal real property, the Federal Property Management Reform Act of 2016 (FPMRA) and the. Federal ...', 'date': 'May 16, 2022', 'position': 3}"
+        },
+        {
+            "url": "http://www.osha.gov/",
+            "jurisdiction": "Federal",
+            "title": "Home | Occupational Safety and Health Administration",
+            "description": "Strengthening America's workforce through stories, news and information on workplace safety and health.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Home | Occupational Safety and Health Administration', 'link': 'http://www.osha.gov/', 'snippet': \"Strengthening America's workforce through stories, news and information on workplace safety and health.\", 'attributes': {'Missing': 'Property domain:'}, 'position': 4}"
         },
         {
             "url": "https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses",
             "jurisdiction": "Federal",
             "title": "Part 252 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES",
-            "description": "(1) DoD will provide Medium and High Assessment summary level ... (c) Any other applicable Federal, State, and local laws, codes, ordinances, and regulations.",
+            "description": "(5) Furnish suitable offices, office equipment and telephones at or near the site of the work for the Government's use. (d) The job order will state whether ...",
             "relevance_score": 1.0,
-            "content": "{'title': 'Part 252 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES', 'link': 'https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses', 'snippet': '(1) DoD will provide Medium and High Assessment summary level ... (c) Any other applicable Federal, State, and local laws, codes, ordinances, and regulations.', 'position': 3}"
+            "content": "{'title': 'Part 252 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES', 'link': 'https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses', 'snippet': \"(5) Furnish suitable offices, office equipment and telephones at or near the site of the work for the Government's use. (d) The job order will state whether ...\", 'position': 5}"
         },
         {
-            "url": "https://www.govinfo.gov/content/pkg/GPO-STYLEMANUAL-2016/pdf/GPO-STYLEMANUAL-2016.pdf",
+            "url": "https://www.congress.gov/crs-product/R46238",
             "jurisdiction": "Federal",
-            "title": "[PDF] U.S. Government Publishing Office Style Manual - GovInfo",
-            "description": "This is the official U.S. Government edition of this publication and is herein identified to certify its authenticity. ISBN 978\u20130\u201316\u2013093601\u20132 is ...",
+            "title": "The Freedom of Information Act (FOIA): A Legal Overview",
+            "description": "The Freedom of Information Act (FOIA) establishes a three-part system that requires federal agencies to disclose a large swath of government information to the ...",
             "relevance_score": 1.0,
-            "content": "{'title': '[PDF] U.S. Government Publishing Office Style Manual - GovInfo', 'link': 'https://www.govinfo.gov/content/pkg/GPO-STYLEMANUAL-2016/pdf/GPO-STYLEMANUAL-2016.pdf', 'snippet': 'This is the official U.S. Government edition of this publication and is herein identified to certify its authenticity. ISBN 978\u20130\u201316\u2013093601\u20132 is ...', 'date': '15 Jun 2016', 'position': 4}"
+            "content": "{'title': 'The Freedom of Information Act (FOIA): A Legal Overview', 'link': 'https://www.congress.gov/crs-product/R46238', 'snippet': 'The Freedom of Information Act (FOIA) establishes a three-part system that requires federal agencies to disclose a large swath of government information to the ...', 'date': 'Jun 27, 2024', 'position': 6}"
         },
         {
-            "url": "https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf",
+            "url": "https://www.congress.gov/bill/117th-congress/house-bill/2617",
             "jurisdiction": "Federal",
-            "title": "[PDF] FINANCIAL CRISIS - GovInfo",
-            "description": "... laws and regulations strictly limited the amount of loans banks could make to a single borrower and restricted their investments in the debt obligations of ...",
+            "title": "117th Congress (2021-2022): Consolidated Appropriations Act, 2023",
+            "description": "TITLE II--ENVIRONMENTAL PROTECTION AGENCY. This title provides appropriations to the Environmental Protection Agency (EPA) for. Science and Technology ...",
             "relevance_score": 1.0,
-            "content": "{'title': '[PDF] FINANCIAL CRISIS - GovInfo', 'link': 'https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf', 'snippet': '... laws and regulations strictly limited the amount of loans banks could make to a single borrower and restricted their investments in the debt obligations of ...', 'attributes': {'Missing': 'domain'}, 'position': 5}"
+            "content": "{'title': '117th Congress (2021-2022): Consolidated Appropriations Act, 2023', 'link': 'https://www.congress.gov/bill/117th-congress/house-bill/2617', 'snippet': 'TITLE II--ENVIRONMENTAL PROTECTION AGENCY. This title provides appropriations to the Environmental Protection Agency (EPA) for. Science and Technology ...', 'position': 7}"
         },
         {
-            "url": "https://home.treasury.gov/",
+            "url": "https://www.congress.gov/bill/118th-congress/senate-bill/2226",
             "jurisdiction": "Federal",
-            "title": "Front page | U.S. Department of the Treasury",
-            "description": "General Information \u00b7 Offices \u00b7 Bureaus \u00b7 Budget, Financial Reporting, Planning and Performance \u00b7 History \u00b7 Careers \u00b7 COVID19 Economic Relief \u00b7 Tax Policy.",
+            "title": "S.2226 - National Defense Authorization Act for Fiscal Year 2024",
+            "description": "This bill authorizes FY2024 appropriations and sets forth policies for Department of Defense (DOD) programs and activities, military construction, the national ...",
             "relevance_score": 1.0,
-            "content": "{'title': 'Front page | U.S. Department of the Treasury', 'link': 'https://home.treasury.gov/', 'snippet': 'General Information \u00b7 Offices \u00b7 Bureaus \u00b7 Budget, Financial Reporting, Planning and Performance \u00b7 History \u00b7 Careers \u00b7 COVID19 Economic Relief \u00b7 Tax Policy.', 'attributes': {'Missing': 'Louis, domain:'}, 'position': 6}"
+            "content": "{'title': 'S.2226 - National Defense Authorization Act for Fiscal Year 2024', 'link': 'https://www.congress.gov/bill/118th-congress/senate-bill/2226', 'snippet': 'This bill authorizes FY2024 appropriations and sets forth policies for Department of Defense (DOD) programs and activities, military construction, the national ...', 'position': 8}"
         },
         {
-            "url": "https://www.sba.gov/funding-programs/loans/504-loans",
+            "url": "https://www.usgs.gov/",
             "jurisdiction": "Federal",
-            "title": "504 loans | U.S. Small Business Administration",
-            "description": "The 504 loan program provides long-term, fixed rate financing for major fixed assets that promote business growth and job creation.",
+            "title": "USGS.gov | Science for a changing world",
+            "description": "We provide science about the natural hazards that threaten lives and livelihoods; the water, energy, minerals, and other natural resources we rely on; ...",
             "relevance_score": 1.0,
-            "content": "{'title': '504 loans | U.S. Small Business Administration', 'link': 'https://www.sba.gov/funding-programs/loans/504-loans', 'snippet': 'The 504 loan program provides long-term, fixed rate financing for major fixed assets that promote business growth and job creation.', 'date': '3 Jun 2025', 'attributes': {'Missing': 'Louis, Missouri'}, 'position': 7}"
+            "content": "{'title': 'USGS.gov | Science for a changing world', 'link': 'https://www.usgs.gov/', 'snippet': 'We provide science about the natural hazards that threaten lives and livelihoods; the water, energy, minerals, and other natural resources we rely on; ...', 'sitelinks': [{'title': 'Latest Earthquakes', 'link': 'https://earthquake.usgs.gov/earthquakes/map/'}, {'title': 'Data', 'link': 'https://www.usgs.gov/products/data'}, {'title': 'EarthExplorer', 'link': 'https://earthexplorer.usgs.gov/'}, {'title': 'Map Releases', 'link': 'https://www.usgs.gov/products/maps/map-releases'}], 'position': 9}"
         },
         {
-            "url": "https://www.opm.gov/policy-data-oversight/classification-qualifications/appeal-decisions/decisions/claims/0500-accounting-and-budget/0501-financial-administration-and-program/c-0501-12-03/",
+            "url": "https://www.congress.gov/crs-product/R45631",
             "jurisdiction": "Federal",
-            "title": "US Office of Personnel Management Classification Appeal Decision ...",
-            "description": "At Level 1-8, work requires a mastery of and skill in applying the concepts, principles, practices, laws, and regulations of budgeting and/or financing; and the ...",
+            "title": "Data Protection Law: An Overview - Congress.gov",
+            "description": "The 116th Congress consider a comprehensive federal data protection law, its legislative proposals may involve numerous decision points and legal ...",
             "relevance_score": 1.0,
-            "content": "{'title': 'US Office of Personnel Management Classification Appeal Decision ...', 'link': 'https://www.opm.gov/policy-data-oversight/classification-qualifications/appeal-decisions/decisions/claims/0500-accounting-and-budget/0501-financial-administration-and-program/c-0501-12-03/', 'snippet': 'At Level 1-8, work requires a mastery of and skill in applying the concepts, principles, practices, laws, and regulations of budgeting and/or financing; and the ...', 'position': 8}"
-        },
-        {
-            "url": "https://www.gao.gov/assets/gao-06-382sp.pdf",
-            "jurisdiction": "Federal",
-            "title": "[PDF] GAO-06-382SP Principles of Federal Appropriations Law",
-            "description": "This volume supersedes the Volume II, Second Edition of the Principles of Federal Appropriations Law, 1992.",
-            "relevance_score": 1.0,
-            "content": "{'title': '[PDF] GAO-06-382SP Principles of Federal Appropriations Law', 'link': 'https://www.gao.gov/assets/gao-06-382sp.pdf', 'snippet': 'This volume supersedes the Volume II, Second Edition of the Principles of Federal Appropriations Law, 1992.', 'position': 9}"
-        },
-        {
-            "url": "https://www.govinfo.gov/content/pkg/GPO-CONAN-2002/pdf/GPO-CONAN-2002-9-15.pdf",
-            "jurisdiction": "Federal",
-            "title": "[PDF] FOURTEENTH AMENDMENT - GovInfo",
-            "description": "Section 1. Rights Guaranteed ................................................................................................... 1671.",
-            "relevance_score": 1.0,
-            "content": "{'title': '[PDF] FOURTEENTH AMENDMENT - GovInfo', 'link': 'https://www.govinfo.gov/content/pkg/GPO-CONAN-2002/pdf/GPO-CONAN-2002-9-15.pdf', 'snippet': 'Section 1. Rights Guaranteed ................................................................................................... 1671.', 'position': 10}"
+            "content": "{'title': 'Data Protection Law: An Overview - Congress.gov', 'link': 'https://www.congress.gov/crs-product/R45631', 'snippet': 'The 116th Congress consider a comprehensive federal data protection law, its legislative proposals may involve numerous decision points and legal ...', 'date': 'Mar 25, 2019', 'position': 10}"
         }
     ],
     "State Laws": [
         {
-            "url": "https://revisor.mo.gov/main/OneSection.aspx?section=71.990",
+            "url": "https://dnr.mo.gov/laws-rules-regulations",
             "jurisdiction": "State",
-            "title": "Revised Statutes of Missouri, RSMo Section 71.990 - MO.gov",
-            "description": "71.990. Home-based business, use of residential dwelling \u2014 limitations on restrictions by political subdivisions \u2014 reasonable regulations permitted ...",
+            "title": "Laws, Rules and Regulations | Missouri Department of Natural ...",
+            "description": "The Missouri Department of Natural Resources develops regulations to implement state environmental laws. The front of the Missouri State Capitol facing High St.",
             "relevance_score": 1.0,
-            "content": "{'title': 'Revised Statutes of Missouri, RSMo Section 71.990 - MO.gov', 'link': 'https://revisor.mo.gov/main/OneSection.aspx?section=71.990', 'snippet': '71.990. Home-based business, use of residential dwelling \u2014 limitations on restrictions by political subdivisions \u2014 reasonable regulations permitted ...', 'position': 3}"
+            "content": "{'title': 'Laws, Rules and Regulations | Missouri Department of Natural ...', 'link': 'https://dnr.mo.gov/laws-rules-regulations', 'snippet': 'The Missouri Department of Natural Resources develops regulations to implement state environmental laws. The front of the Missouri State Capitol facing High St.', 'position': 1}"
         },
         {
-            "url": "https://www.revisor.mo.gov/main/PageSelect.aspx?section=137.016&bid=33591",
+            "url": "https://www.stlouis-mo.gov/government/city-laws/ordinances/topic.cfm?topicID=178",
             "jurisdiction": "State",
-            "title": "Revised Statutes of Missouri, RSMo Section 137.016 - MO.gov",
-            "description": "(1) \"Residential property\", all real property improved by a structure which is used or intended to be used for residential living by human occupants, vacant ...",
+            "title": "Ordinances by Topic Environmental Protection - City of St. Louis",
+            "description": "Missing: now Level Residential domain:",
             "relevance_score": 1.0,
-            "content": "{'title': 'Revised Statutes of Missouri, RSMo Section 137.016 - MO.gov', 'link': 'https://www.revisor.mo.gov/main/PageSelect.aspx?section=137.016&bid=33591', 'snippet': '(1) \"Residential property\", all real property improved by a structure which is used or intended to be used for residential living by human occupants, vacant ...', 'position': 5}"
+            "content": "{'title': 'Ordinances by Topic Environmental Protection - City of St. Louis', 'link': 'https://www.stlouis-mo.gov/government/city-laws/ordinances/topic.cfm?topicID=178', 'snippet': 'Missing: now Level Residential domain:', 'position': 2}"
         },
         {
-            "url": "https://www.stlouis-mo.gov/services/topic.cfm?id=101&name=business-regulation-and-licensing",
+            "url": "https://dnr.mo.gov/permits-certifications-registrations-licenses/by-area-focus",
             "jurisdiction": "State",
-            "title": "Business Regulation and Licensing | Explore Topics - City of St. Louis",
-            "description": "Business Licenses, Liquor License, Downloadable Applications, Top Requests, Services and Information, Departments and Agencies, Online Applications and Forms.",
+            "title": "Environmental Permits by Area of Focus | Missouri Department of ...",
+            "description": "Permits ensure businesses and individuals understand and follow all applicable federal and state environmental laws and regulations to protect our air, land and ...",
             "relevance_score": 1.0,
-            "content": "{'title': 'Business Regulation and Licensing | Explore Topics - City of St. Louis', 'link': 'https://www.stlouis-mo.gov/services/topic.cfm?id=101&name=business-regulation-and-licensing', 'snippet': 'Business Licenses, Liquor License, Downloadable Applications, Top Requests, Services and Information, Departments and Agencies, Online Applications and Forms.', 'position': 8}"
+            "content": "{'title': 'Environmental Permits by Area of Focus | Missouri Department of ...', 'link': 'https://dnr.mo.gov/permits-certifications-registrations-licenses/by-area-focus', 'snippet': 'Permits ensure businesses and individuals understand and follow all applicable federal and state environmental laws and regulations to protect our air, land and ...', 'position': 3}"
         },
         {
-            "url": "https://stlouiscountymo.gov/st-louis-county-departments/transportation-and-public-works/commercial-building/commercial-guides/business-information/",
+            "url": "https://www.stlouis-mo.gov/services/topic.cfm?id=178&name=environmental-protection",
             "jurisdiction": "State",
-            "title": "Business Information - St. Louis County Website",
-            "description": "Frequently asked questions and merchant license information regarding opening, expanding, or relocating a business.",
+            "title": "Environmental Protection | Explore Topics - City of St. Louis",
+            "description": "Air Pollution Control provides permitting approval for asbestos abatement, demolition, and occupancy. Inspectors also provide site monitoring and enforcement ...",
             "relevance_score": 1.0,
-            "content": "{'title': 'Business Information - St. Louis County Website', 'link': 'https://stlouiscountymo.gov/st-louis-county-departments/transportation-and-public-works/commercial-building/commercial-guides/business-information/', 'snippet': 'Frequently asked questions and merchant license information regarding opening, expanding, or relocating a business.', 'position': 10}"
+            "content": "{'title': 'Environmental Protection | Explore Topics - City of St. Louis', 'link': 'https://www.stlouis-mo.gov/services/topic.cfm?id=178&name=environmental-protection', 'snippet': 'Air Pollution Control provides permitting approval for asbestos abatement, demolition, and occupancy. Inspectors also provide site monitoring and enforcement ...', 'position': 4}"
+        },
+        {
+            "url": "https://www.epa.gov/laws-regulations",
+            "jurisdiction": "State",
+            "title": "Laws & Regulations | US EPA",
+            "description": "Missing: Look Residential Property Manager St. Louis, Missouri domain:",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Laws & Regulations | US EPA', 'link': 'https://www.epa.gov/laws-regulations', 'snippet': 'Missing: Look Residential Property Manager St. Louis, Missouri domain:', 'sitelinks': [{'title': 'Laws and Executive Orders', 'link': 'https://www.epa.gov/laws-regulations/laws-and-executive-orders'}, {'title': 'Regulations', 'link': 'https://www.epa.gov/laws-regulations/regulations'}, {'title': 'Summary of the Clean Water Act', 'link': 'https://www.epa.gov/laws-regulations/summary-clean-water-act'}, {'title': 'RCRA', 'link': 'https://www.epa.gov/laws-regulations/summary-resource-conservation-and-recovery-act'}], 'position': 8}"
+        },
+        {
+            "url": "https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses",
+            "jurisdiction": "State",
+            "title": "Part 252 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES",
+            "description": "252.211-7002 Availability for Examination of Specifications, Standards, Plans, Drawings, Data Item Descriptions, and Other Pertinent Documents.",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Part 252 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES', 'link': 'https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses', 'snippet': '252.211-7002 Availability for Examination of Specifications, Standards, Plans, Drawings, Data Item Descriptions, and Other Pertinent Documents.', 'position': 10}"
         }
     ],
     "Local Laws": [
         {
-            "url": "https://revisor.mo.gov/main/OneSection.aspx?section=71.990",
+            "url": "https://dnr.mo.gov/laws-rules-regulations",
             "jurisdiction": "Local",
-            "title": "Revised Statutes of Missouri, RSMo Section 71.990 - MO.gov",
-            "description": "71.990. Home-based business, use of residential dwelling \u2014 limitations on restrictions by political subdivisions \u2014 reasonable regulations permitted ...",
+            "title": "Laws, Rules and Regulations | Missouri Department of Natural ...",
+            "description": "The Missouri Department of Natural Resources develops regulations to implement state environmental laws. The front of the Missouri State Capitol facing High St.",
             "relevance_score": 1.0,
-            "content": "{'title': 'Revised Statutes of Missouri, RSMo Section 71.990 - MO.gov', 'link': 'https://revisor.mo.gov/main/OneSection.aspx?section=71.990', 'snippet': '71.990. Home-based business, use of residential dwelling \u2014 limitations on restrictions by political subdivisions \u2014 reasonable regulations permitted ...', 'position': 3}"
+            "content": "{'title': 'Laws, Rules and Regulations | Missouri Department of Natural ...', 'link': 'https://dnr.mo.gov/laws-rules-regulations', 'snippet': 'The Missouri Department of Natural Resources develops regulations to implement state environmental laws. The front of the Missouri State Capitol facing High St.', 'position': 1}"
         },
         {
-            "url": "https://www.revisor.mo.gov/main/PageSelect.aspx?section=137.016&bid=33591",
+            "url": "https://www.stlouis-mo.gov/government/city-laws/ordinances/topic.cfm?topicID=178",
             "jurisdiction": "Local",
-            "title": "Revised Statutes of Missouri, RSMo Section 137.016 - MO.gov",
-            "description": "(1) \"Residential property\", all real property improved by a structure which is used or intended to be used for residential living by human occupants, vacant ...",
+            "title": "Ordinances by Topic Environmental Protection - City of St. Louis",
+            "description": "Missing: now Local Level Residential domain:",
             "relevance_score": 1.0,
-            "content": "{'title': 'Revised Statutes of Missouri, RSMo Section 137.016 - MO.gov', 'link': 'https://www.revisor.mo.gov/main/PageSelect.aspx?section=137.016&bid=33591', 'snippet': '(1) \"Residential property\", all real property improved by a structure which is used or intended to be used for residential living by human occupants, vacant ...', 'position': 5}"
+            "content": "{'title': 'Ordinances by Topic Environmental Protection - City of St. Louis', 'link': 'https://www.stlouis-mo.gov/government/city-laws/ordinances/topic.cfm?topicID=178', 'snippet': 'Missing: now Local Level Residential domain:', 'position': 2}"
         },
         {
-            "url": "https://www.stlouis-mo.gov/government/city-laws/ordinances/topic.cfm?topicID=90",
+            "url": "https://dnr.mo.gov/about-us/division-environmental-quality",
             "jurisdiction": "Local",
-            "title": "Permits, Inspections, and Certifications | City of St. Louis Ordinances",
-            "description": "An Ordinance recommended by the Planning Commission amending the Zoning Code to reform minimum lot size regulations for single-family and two-family ...",
+            "title": "Division of Environmental Quality | Missouri Department of Natural ...",
+            "description": "Protecting and enhancing the quality of Missouri's environment is the responsibility of the department's Division of Environmental Quality.",
             "relevance_score": 1.0,
-            "content": "{'title': 'Permits, Inspections, and Certifications | City of St. Louis Ordinances', 'link': 'https://www.stlouis-mo.gov/government/city-laws/ordinances/topic.cfm?topicID=90', 'snippet': 'An Ordinance recommended by the Planning Commission amending the Zoning Code to reform minimum lot size regulations for single-family and two-family ...', 'position': 6}"
+            "content": "{'title': 'Division of Environmental Quality | Missouri Department of Natural ...', 'link': 'https://dnr.mo.gov/about-us/division-environmental-quality', 'snippet': \"Protecting and enhancing the quality of Missouri's environment is the responsibility of the department's Division of Environmental Quality.\", 'position': 3}"
         },
         {
-            "url": "https://stlouiscountymo.gov/st-louis-county-departments/transportation-and-public-works/commercial-building/commercial-guides/business-information/",
+            "url": "https://www.stlouis-mo.gov/services/topic.cfm?id=178&name=environmental-protection",
             "jurisdiction": "Local",
-            "title": "Business Information - St. Louis County Website",
-            "description": "Frequently asked questions and merchant license information regarding opening, expanding, or relocating a business.",
+            "title": "Environmental Protection | Explore Topics - City of St. Louis",
+            "description": "Air Pollution Control provides permitting approval for asbestos abatement, demolition, and occupancy. Inspectors also provide site monitoring and enforcement ...",
             "relevance_score": 1.0,
-            "content": "{'title': 'Business Information - St. Louis County Website', 'link': 'https://stlouiscountymo.gov/st-louis-county-departments/transportation-and-public-works/commercial-building/commercial-guides/business-information/', 'snippet': 'Frequently asked questions and merchant license information regarding opening, expanding, or relocating a business.', 'position': 10}"
+            "content": "{'title': 'Environmental Protection | Explore Topics - City of St. Louis', 'link': 'https://www.stlouis-mo.gov/services/topic.cfm?id=178&name=environmental-protection', 'snippet': 'Air Pollution Control provides permitting approval for asbestos abatement, demolition, and occupancy. Inspectors also provide site monitoring and enforcement ...', 'position': 4}"
+        },
+        {
+            "url": "https://www.epa.gov/laws-regulations",
+            "jurisdiction": "Local",
+            "title": "Laws & Regulations | US EPA",
+            "description": "Missing: Look Residential Property Manager St. Louis, Missouri domain:",
+            "relevance_score": 1.0,
+            "content": "{'title': 'Laws & Regulations | US EPA', 'link': 'https://www.epa.gov/laws-regulations', 'snippet': 'Missing: Look Residential Property Manager St. Louis, Missouri domain:', 'sitelinks': [{'title': 'Laws and Executive Orders', 'link': 'https://www.epa.gov/laws-regulations/laws-and-executive-orders'}, {'title': 'Regulations', 'link': 'https://www.epa.gov/laws-regulations/regulations'}, {'title': 'Summary of the Clean Water Act', 'link': 'https://www.epa.gov/laws-regulations/summary-clean-water-act'}, {'title': 'RCRA', 'link': 'https://www.epa.gov/laws-regulations/summary-resource-conservation-and-recovery-act'}], 'position': 10}"
         }
     ]
 }

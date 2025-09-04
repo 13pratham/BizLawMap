@@ -72,7 +72,7 @@ class LLMService:
         4. Specific steps for compliance
         5. Identification of any overlapping regulations
         
-        Provide response in json format without any additional text: {format_instructions}
+        Provide response in JSON format without any additional text: {format_instructions}
         """
         
         prompt = ChatPromptTemplate.from_template(template)
@@ -105,10 +105,10 @@ class LLMService:
         )
         
         # Parse the output
-        print("Result:", result)  # Debugging line to inspect the raw result
+        # print("Result:", result)  # Debugging line to inspect the raw result
         # parsed_output = self.output_parser.parse(result)
         cleaned_result = re.sub(r"```json(.*?)```", r"\1", result, flags=re.DOTALL).strip()
-        print("Cleaned Result:", cleaned_result)  # Debugging line to inspect the cleaned result
+        # print("Cleaned Result:", cleaned_result)  # Debugging line to inspect the cleaned result
         parsed_output = json.loads(cleaned_result)
         
         # Calculate response time
@@ -133,6 +133,44 @@ class LLMService:
             response_time=response_time
         )
     
+    def determine_context(self, user_input: str) -> BusinessContext:
+        """Determine business context from user input using LLM"""
+        prompt = f"""
+        Analyze the following user input and extract the business context:
+        
+        User Input: "{user_input}"
+        
+        Extracted Information:
+        - US City
+        - US State
+        - Business Type (e.g., Restaurant Owner, Landlord, Property Manager)
+        - Area of Law (e.g., Employment, Taxation, Environmental)
+        - Specific Statute of Law (if mentioned e.g., OSHA, EPA, IRS)
+        
+        Provide the extracted information in JSON format.
+        Response Format:
+        {{
+            "city": "US City Name or None",
+            "state": "US State Name or None",
+            "business_type": "Type of Business or None",
+            "area_of_law": "Area of Law or None",
+            "statute_of_law": "Specific Statute or None"
+        }}
+        """
+        response = self.llm.predict(prompt)
+        
+        # Parse the JSON response
+        cleaned_response = re.sub(r"```json(.*?)```", r"\1", response, flags=re.DOTALL).strip()
+        context_data = json.loads(cleaned_response)
+        
+        return BusinessContext(
+            city=context_data.get("city", None) if context_data.get("city", None) != "None" else None,
+            state=context_data.get("state", None) if context_data.get("state", None) != "None" else None,
+            business_type=context_data.get("business_type", None) if context_data.get("business_type", None) != "None" else None,
+            area_of_law=context_data.get("area_of_law", None) if context_data.get("area_of_law", None) != "None" else None,
+            statute_of_law=context_data.get("statute_of_law", None) if context_data.get("statute_of_law", None) != "None" else None
+        )
+
     def _format_sources(self, sources: List[Dict]) -> str:
         """Format sources for the prompt"""
         formatted_text = ""
