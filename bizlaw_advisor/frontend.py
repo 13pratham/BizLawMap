@@ -5,6 +5,7 @@ import streamlit as st
 from typing import Dict, List
 import time
 import json
+import requests
 import asyncio
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
@@ -195,45 +196,39 @@ class StreamlitApp:
                 self._display_structured_message(message_content)
     
     async def _generate_response(self, query: str) -> LegalResponse:
-        """Generate response using parallel search"""
-        await self.initialize_services()
-        
-        context = st.session_state.business_context
-        if len(st.session_state.chat_history) > 2:
-            new_context = self.llm_service.determine_context(query)
-            print("Old Context:", context)
-            print("New Context:", new_context)
-            context.area_of_law = new_context.area_of_law or context.area_of_law
-            context.business_type = new_context.business_type or context.business_type
-            context.city = new_context.city or context.city
-            context.state = new_context.state or context.state
-            context.statute_of_law = None
-            st.session_state.business_context = context
-            print("Updated Context:", context)
+        """Generate response using API"""
         try:
-            # Parallel search for laws
-            federal_laws, state_laws, local_laws = await asyncio.gather(
-                self.search_service.get_federal_laws(query, context.city, context.state, context.business_type, context.area_of_law, context.statute_of_law),
-                self.search_service.get_state_laws(query, context.city, context.state, context.business_type, context.area_of_law),
-                self.search_service.get_local_laws(query, context.city, context.state, context.business_type, context.area_of_law)
-            )
-            with open(self.sources_path / "identified_sources.json", "w") as file:
-                json.dump({
-                    "Federal Laws": federal_laws,
-                    "State Laws": state_laws,
-                    "Local Laws": local_laws
-                }, file, indent=4)
-            # Generate response using LLM
-            response = self.llm_service.generate_response(
-                context, federal_laws, state_laws, local_laws
+            context = st.session_state.business_context
+            if len(st.session_state.chat_history) > 2:
+                new_context = self.llm_service.determine_context(query)
+                context.area_of_law = new_context.area_of_law or context.area_of_law
+                context.business_type = new_context.business_type or context.business_type
+                context.city = new_context.city or context.city
+                context.state = new_context.state or context.state
+                context.statute_of_law = None
+                st.session_state.business_context = context
+
+            # Prepare request data
+            request_data = {
+                "query": query,
+                "context": context.dict()
+            }
+
+            # Make API request
+            response = requests.post(
+                "http://localhost:8000/api/query",
+                json=request_data
             )
             
-            return response
-            
-        finally:
-            # Ensure we clean up the session
-            if self.search_service:
-                await self.search_service.close()
+            if response.status_code != 200:
+                raise Exception(f"API Error: {response.text}")
+                
+            response_data = response.json()
+            return LegalResponse(**response_data)
+
+        except Exception as e:
+            st.error(f"Error generating response: {str(e)}")
+            raise e
 
     def _display_structured_message(self, content: Dict):
         """Display a structured message with enhanced formatting"""
