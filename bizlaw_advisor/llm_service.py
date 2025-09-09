@@ -93,7 +93,7 @@ class LLMService:
             "overlapping_regulations": "List of Identified overlapping regulations"
         }
         # Generate response
-        result = chain.invoke(
+        result = chain.run(
             business_type=context.business_type,
             city=context.city,
             state=context.state,
